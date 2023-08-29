@@ -1,5 +1,5 @@
 * {
-  background-color: rgb(254, 238, 227);
+  background-color: rgb(255, 237, 227);
 }
 
 .App {
@@ -11,20 +11,23 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(4vw);
+  font-size: calc(3vw);
   color: rgb(44, 47, 131);
+}
+
+.App-header h1 {
+  margin-top: -5vh;
+  margin-bottom: -0.5vh;
+}
+
+.App-header p {
+  font-size: calc(1.7vw);
 }
 
 .App-link {

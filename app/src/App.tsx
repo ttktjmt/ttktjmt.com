@@ -1,12 +1,25 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import ScrollReveal from 'scrollreveal';
 import './App.css';
 
 const App: React.FC = () => {
+  useEffect(() => {
+    ScrollReveal().reveal('.App-header', { 
+      delay: 1000,
+      distance: '10px',
+      origin: 'bottom',
+      opacity: 0,
+      duration: 1000,
+      easing: 'ease-in-out',
+      reset: true
+    });
+  }, []);
+
   return (
     <div className="container mt-5">
       <header className="App-header">
         <h1>Tatsuki Tsujimoto</h1>
-        <p>Welcome to my humble design portfolio showcase.</p>
+        <p>Software Developer / ML Developer / Researcher</p>
       </header>
 
       <section className="row">
