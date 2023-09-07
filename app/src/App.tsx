@@ -4,15 +4,17 @@ import './App.css';
 
 const App: React.FC = () => {
   useEffect(() => {
-    ScrollReveal().reveal('.App-header', { 
-      delay: 1000,
-      distance: '10px',
-      origin: 'bottom',
-      opacity: 0,
-      duration: 1000,
-      easing: 'ease-in-out',
-      reset: true
-    });
+    window.onload = () => {
+      ScrollReveal().reveal('.App-header', {
+        delay: 1500,
+        distance: '30px',
+        origin: 'bottom',
+        opacity: 0,
+        duration: 1000,
+        easing: 'ease-in-out',
+        reset: true
+      });
+    };
   }, []);
 
   return (
