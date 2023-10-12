@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import ScrollReveal from 'scrollreveal';
 import './App.css';
 
-const App: React.FC = () => { // test
+const App: React.FC = () => {
   useEffect(() => {
     window.onload = () => {
       ScrollReveal().reveal('.App-header', {
