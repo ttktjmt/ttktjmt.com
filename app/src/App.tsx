@@ -21,7 +21,7 @@ const App: React.FC = () => {
     <div className="container mt-5">
       <header className="App-header">
         <h1>Tatsuki Tsujimoto</h1>
-        <p>Software Developer / ML Developer / Researcher</p>
+        <p>Software Development / Bioinformatics / Machine Learning</p>
       </header>
 
       <section className="row">
