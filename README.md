@@ -1,2 +1,2 @@
-# ttktjmt.web.app
+# ttktjmt.com
 My personal website
