@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ttktjmt-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ttktjmt-frontend
+  template:
+    metadata:
+      labels:
+        app: ttktjmt-frontend
+    spec:
+      containers:
+      - name: ttktjmt-frontend
+        image: ttktjmt/ttktjmt-frontend:latest
+        ports:
+        - containerPort: 80
