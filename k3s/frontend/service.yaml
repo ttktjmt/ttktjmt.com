@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: ttktjmt-frontend-service
 spec:
+  type: ClusterIP
   selector:
     app: ttktjmt-frontend
   ports:
