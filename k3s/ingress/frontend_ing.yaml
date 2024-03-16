@@ -9,10 +9,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - test.ttktjmt.com
+    - ttktjmt.com
     secretName: ttktjmt-tls
   rules:
-  - host: test.ttktjmt.com
+  - host: ttktjmt.com
     http:
       paths:
       - path: /
