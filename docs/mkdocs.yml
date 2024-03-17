@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Tatsuki Tsujimoto
+theme:
+  name: material
+  # logo: images/logo.png
+  # favicon: images/favicon.ico
+  features:
+    - navigation.instant
+  palette:
+    primary: deep purple
+    accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ttktjmt
