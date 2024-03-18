@@ -6,7 +6,16 @@ theme:
   # logo: images/logo.png
   # favicon: images/favicon.ico
   features:
-    - navigation.instant
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  - navigation.tabs
   palette:
     - media: '(prefers-color-scheme: light)'
       scheme: default
@@ -23,6 +32,14 @@ repo_name: ttktjmt/ttktjmt.com
 repo_url: https://github.com/ttktjmt/ttktjmt.com
 plugins:
   - search
+nav:
+- Home: index.md
+- Experience: experience.md
+- Project: projects.md
+- Blog:
+  - Title1: blog/post1.md
+  - Title2: blog/post2.md
+  - Title3: blog/post3.md
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -31,4 +48,3 @@ extra:
       link: https://www.linkedin.com/in/tatsukitsujimot
     - icon: fontawesome/solid/envelope
       link: https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com
-    
