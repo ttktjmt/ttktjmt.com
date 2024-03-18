@@ -1,4 +1,6 @@
 site_name: Tatsuki Tsujimoto
+site_description: My professional portfolio and projects
+site_url: https://ttktjmt.com/
 theme:
   name: material
   # logo: images/logo.png
@@ -6,14 +8,27 @@ theme:
   features:
     - navigation.instant
   palette:
-    primary: deep purple
-    accent: light blue
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: teal
+      accent: amber
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: teal
+      accent: amber
   font:
     text: Roboto
     code: Roboto Mono
+repo_name: ttktjmt/ttktjmt.com
+repo_url: https://github.com/ttktjmt/ttktjmt.com
 plugins:
   - search
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ttktjmt
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tatsukitsujimot
+    - icon: fontawesome/solid/envelope
+      link: https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com
+    
