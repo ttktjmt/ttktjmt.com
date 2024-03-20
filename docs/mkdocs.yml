@@ -3,7 +3,7 @@ site_description: My professional portfolio and projects
 site_url: https://ttktjmt.com/
 theme:
   name: material
-  # logo: images/logo.png
+  logo: img/terminal-solid.svg
   # favicon: images/favicon.ico
   features:
   - search.suggest
@@ -36,6 +36,8 @@ nav:
 - Home: index.md
 - Experience: experience.md
 - Project: projects.md
+- Education: education.md
+- Health: health.md
 - Blog:
   - Title1: blog/post1.md
   - Title2: blog/post2.md
