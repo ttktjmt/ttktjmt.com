@@ -3,18 +3,33 @@ hide:
   - navigation
 ---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<!-- <style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style> -->
 
-## Commands
+<img src="img/profile.png" alt="Profile picture" width="200" style="float: left; margin: 30px 100px;"/>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<h1 style="margin: 70px 5px 30px 5px; font-weight: bold;">
+  Hi 👋 I am Tatsuki Tsujimoto
+</h1>
 
-## Project layout
+test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<div style="clear: both;"></div>
+
+---
+
+**Website**: [https://ttktjmt.com](https://ttktjmt.com)
+
+**Source Code**: [https://github.com/ttktjmt/ttktjmt.com](https://github.com/ttktjmt/ttktjmt.com)
+
+---
+
+
+## More About Me
+
+* :earth_asia: I currently live in Kanagawa, Japan
+* 

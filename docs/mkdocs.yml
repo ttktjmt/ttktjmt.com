@@ -1,10 +1,21 @@
+# Project information
 site_name: Tatsuki Tsujimoto
 site_description: My professional portfolio and projects
 site_url: https://ttktjmt.com/
+
+# Repository
+repo_name: ttktjmt/ttktjmt.com
+repo_url: https://github.com/ttktjmt/ttktjmt.com
+
+# Copyright
+copyright: a&copy;2024 Tatsuki Tsujimoto
+
+# Configuration
 theme:
   name: material
   logo: img/terminal-solid.svg
-  # favicon: images/favicon.ico
+  favicon: img/terminal-solid.svg
+  language: en
   features:
   - search.suggest
   - search.highlight
@@ -17,21 +28,46 @@ theme:
   - content.code.select
   - navigation.tabs
   palette:
-    - media: '(prefers-color-scheme: light)'
-      scheme: default
-      primary: teal
-      accent: amber
-    - media: '(prefers-color-scheme: dark)'
-      scheme: slate
-      primary: teal
-      accent: amber
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: indigo
+    accent: cyan
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: indigo
+    accent: cyan
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
-repo_name: ttktjmt/ttktjmt.com
-repo_url: https://github.com/ttktjmt/ttktjmt.com
+
+# Plugins
 plugins:
   - search
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ttktjmt
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tatsukitsujimot
+    - icon: fontawesome/solid/envelope
+      link: https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Page tree
 nav:
 - Home: index.md
 - About: about.md
@@ -43,11 +79,3 @@ nav:
   - Title2: blog/post2.md
   - Title3: blog/post3.md
 - Contact: contact.md
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/ttktjmt
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/tatsukitsujimot
-    - icon: fontawesome/solid/envelope
-      link: https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com
