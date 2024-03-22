@@ -1,17 +1,20 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 <!-- TODO: format this for mobile devices -->
 <img src="img/profile.png" alt="Profile picture" width="22%" style="float: left; margin: 0% 10% 1% 10%;"/>
 
-<h1 style="margin: 4% 0.5% 3% 0.5%; font-weight: bold;">
+<h1 style="margin: 4.5% 0.5% 3% 0.5%; font-weight: bold;">
   Hi 👋 I am Tatsuki Tsujimoto
 </h1>
 
+<font size=4>
 As a Software Engineer, my aspiration is to harness scientific knowledge and technology to craft solutions that genuinely aid people.<br>
 I am particularly interested in back-end development in the medical, healthcare, and AI areas.
+</font>
 
 <div style="clear: both;"></div>
 

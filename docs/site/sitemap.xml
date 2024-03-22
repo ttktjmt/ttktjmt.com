@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ttktjmt.com/about/</loc>
-         <lastmod>2024-03-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ttktjmt.com/contact/</loc>
          <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
@@ -27,6 +22,16 @@
     </url>
     <url>
          <loc>https://ttktjmt.com/projects/</loc>
+         <lastmod>2024-03-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ttktjmt.com/about/architecture/</loc>
+         <lastmod>2024-03-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ttktjmt.com/about/overview/</loc>
          <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
