@@ -3,33 +3,39 @@ hide:
   - navigation
 ---
 
-<!-- <style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style> -->
+<!-- TODO: format this for mobile devices -->
+<img src="img/profile.png" alt="Profile picture" width="22%" style="float: left; margin: 0% 10% 1% 10%;"/>
 
-<img src="img/profile.png" alt="Profile picture" width="200" style="float: left; margin: 30px 100px;"/>
-
-<h1 style="margin: 70px 5px 30px 5px; font-weight: bold;">
+<h1 style="margin: 4% 0.5% 3% 0.5%; font-weight: bold;">
   Hi 👋 I am Tatsuki Tsujimoto
 </h1>
 
-test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences. test sentences.
+As a Software Engineer, my aspiration is to harness scientific knowledge and technology to craft solutions that genuinely aid people.<br>
+I am particularly interested in back-end development in the medical, healthcare, and AI areas.
 
 <div style="clear: both;"></div>
 
 ---
-
-**Website**: [https://ttktjmt.com](https://ttktjmt.com)
-
+**Portfolio Website**: [https://ttktjmt.com](https://ttktjmt.com)  
 **Source Code**: [https://github.com/ttktjmt/ttktjmt.com](https://github.com/ttktjmt/ttktjmt.com)
-
 ---
-
 
 ## More About Me
 
-* :earth_asia: I currently live in Kanagawa, Japan
-* 
+* :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
+* :gear:              &nbsp; Check out the architecture of this website from the [**About Tab**](about.md)
+* :octicons-mail-16:  &nbsp; You can contact me at [tatsuki.tsujimoto@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com)
+* :speaking_head:     &nbsp; I speak Japanese, English, and a bit of German
+* :basketball:        &nbsp; I like playing and watching basketball game!!
+
+## How to use this website
+
+test<br>
+test<br>
+test<br>
+test<br>
+test<br>
+test<br>
+test<br>
+test<br>
+test<br>
