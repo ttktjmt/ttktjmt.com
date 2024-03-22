@@ -72,7 +72,9 @@ markdown_extensions:
 # Page tree
 nav:
 - Home: index.md
-- About: about.md
+- About:
+  - Overview: about/overview.md
+  - Architecture: about/architecture.md
 - Projects: projects.md
 - Experience: experience.md
 - Education: education.md

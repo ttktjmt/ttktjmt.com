@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ttktjmt.com/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ttktjmt.com/about/</loc>
+         <lastmod>2024-03-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ttktjmt.com/contact/</loc>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/education/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/experience/</loc>
-         <lastmod>2024-03-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ttktjmt.com/health/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/projects/</loc>
-         <lastmod>2024-03-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ttktjmt.com/research/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/blog/post1/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/blog/post2/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ttktjmt.com/blog/post3/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
