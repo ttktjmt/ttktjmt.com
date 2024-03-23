@@ -5,10 +5,16 @@ This website is developed for showcasing my information, managing my projects, h
 
 ## Related Skills
 
-* :simple-kubernetes:   &nbsp; Kubernetes
-* :simple-docker:       &nbsp; Docker
-* :simple-python:       &nbsp; Python
-* :simple-cplusplus:    &nbsp; C++
+<font size='4'>
+:simple-kubernetes:  Kubernetes , &nbsp;
+:simple-k3s:         k3s , &nbsp;
+:simple-docker:      Docker , &nbsp;
+:simple-python:      Python , &nbsp;
+:simple-git:         Git , &nbsp;
+:simple-github:      GitHub , &nbsp; <br>
+:simple-raspberrypi: Raspberry Pi , &nbsp;
+:simple-linux:       Linux
+</font>
 
 ## Architecture
 ![Architecture of k3s](../graph/architecture.png)

@@ -30,15 +30,3 @@ I am particularly interested in back-end development in the medical, healthcare,
 * :octicons-mail-16:  &nbsp; You can contact me at [tatsuki.tsujimoto@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com)
 * :speaking_head:     &nbsp; I speak Japanese, English, and a bit of German
 * :basketball:        &nbsp; I like playing and watching basketball game!!
-
-## How to use this website
-
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
