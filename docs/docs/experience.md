@@ -19,7 +19,9 @@ hide:
 comming later on...
 </font>
 
+<span style="color: teal;">
 :wrench: &nbsp; **Skills** : C++, &nbsp; Python, &nbsp; FastAPI, &nbsp; Kubernetes, &nbsp; AWS (IAM, EKS, S3, RDS), &nbsp; PostgreSQL, &nbsp; Genome Analysis, &nbsp; CLI development, &nbsp; Software Development, &nbsp; Machine Learning
+</span>
 
 <br><br>
 
@@ -37,7 +39,9 @@ comming later on...
 Focused on healthcare applications by analyzing navel temperature for IoT integration. Contributed to developing a mobile application for IoT devices and collaborated with external companies on experimental design.
 </font>
 
+<span style="color: teal;">
 :wrench: &nbsp; **Skills** : Python, &nbsp; Firebase, &nbsp; Flutter, &nbsp; BLE Connection Implementation, &nbsp; Database Configuration, &nbsp; Biomedical Engineering, &nbsp; Mobile Application Development, &nbsp; Research and Development (R&D), &nbsp; Healthcare, &nbsp; Data Analysis, &nbsp; Software Development
+</span>
 
 <br><br>
 
@@ -55,6 +59,8 @@ Focused on healthcare applications by analyzing navel temperature for IoT integr
 Co-founded a wearable device company with a colleague, and actively participated in various business competitions. Also represented Nagano Prefecture at the Entrepreneur Expo, hosted by the Ministry of Internal Affairs and Communications and the NICT
 </font>
 
+<span style="color: teal;">
 :wrench: &nbsp; **Skills** : Research and Development (R&D), &nbsp; Data Analysis, &nbsp; Bioinformatics, &nbsp; Software Development
+</span>
 
 <br><br>

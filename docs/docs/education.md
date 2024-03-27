@@ -26,7 +26,9 @@ comming later on...
 comming later on...
 </font>
 
-:wrench: &nbsp; **Skills** : C++, &nbsp; Python, &nbsp; FastAPI, &nbsp; Kubernetes, &nbsp; AWS (IAM, EKS, S3, RDS), &nbsp; PostgreSQL, &nbsp; Genome Analysis, &nbsp; CLI development, &nbsp; Software Development, &nbsp; Machine Learning
+<span style="color: teal;">
+:wrench: &nbsp; **Skills** : C++ , &nbsp; Python
+</span>
 
 
 <br><br>
@@ -51,6 +53,8 @@ comming later on...
 comming later on...
 </font>
 
-:wrench: &nbsp; **Skills** : C++, &nbsp; Python, &nbsp; FastAPI, &nbsp; Kubernetes, &nbsp; AWS (IAM, EKS, S3, RDS), &nbsp; PostgreSQL, &nbsp; Genome Analysis, &nbsp; CLI development, &nbsp; Software Development, &nbsp; Machine Learning
+<span style="color: teal;">
+:wrench: &nbsp; **Skills** : C++ , &nbsp; Python
+</span>
 
 <br><br>

@@ -16,8 +16,9 @@ I am always excited to connect with others regarding potential job opportunities
 
 
 ## Contact Info
-You can send me an email from [**here**](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com)<br>
-You are also welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in/tatsukitsujimoto/).<br>
+You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in/tatsukitsujimoto/).
 
-Thank you for considering me for your projects and opportunities!!
+You can also send me an email from the button below.
+
+[Send :fontawesome-solid-paper-plane:](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com){ .md-button }
 
