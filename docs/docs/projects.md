@@ -3,7 +3,7 @@
 
 ### **Portfolio Website (this site)** <a href="https://github.com/ttktjmt/ttktjmt.com" target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 2rem;"> :simple-github: </a>
 
-Check out the [**About tab**](about/overview.md) for more infomation!!
+Check out the [**About tab**](about/overview.md) for more details!!
 
 :wrench: &nbsp; **Skills** : Kubernetes, Python, ...
 
@@ -21,15 +21,17 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
 ### **Homepage Development** <a href="https://mu-borg.com" target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 2rem;"> :material-web: </a>
 
-Skills: Notion, Cloudflare 
+:wrench: &nbsp; **Skills** : Notion, Cloudflare
     
 
 ---
 
 ### **Voice Controlled Robot Hand** <a href="https://youtu.be/zjVYmhg9dLg" target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 2rem;"> :simple-youtube: </a>
 
+:wrench: &nbsp; **Skills** : ...
+
 ---
 
 ### **TETRIS on Arduino Game Console** <a href="https://youtu.be/Kmq4INAJUeA" target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 2rem;"> :simple-youtube: </a>
 
-
+:wrench: &nbsp; **Skills** : ...

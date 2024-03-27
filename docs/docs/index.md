@@ -26,7 +26,7 @@ I am particularly interested in back-end development in the medical, healthcare,
 ## More About Me
 
 * :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
-* :gear:              &nbsp; Check out the configuration of this website from the [**About Tab**](about/overview.md)
-* :octicons-mail-16:  &nbsp; You can contact me at [tatsuki.tsujimoto@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com)
 * :speaking_head:     &nbsp; I speak Japanese, English, and a bit of German
-* :basketball:        &nbsp; I like playing and watching basketball game!!
+* :basketball:        &nbsp; I like playing basketball and watching NBA :\)
+* :gear:              &nbsp; Check out the configuration of my portfolio from the [**About Tab**](about/overview.md)
+* :octicons-mail-16:  &nbsp; You can find contact infomation from the [**Contact Tab**](contact.md)
