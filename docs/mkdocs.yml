@@ -75,6 +75,7 @@ nav:
 - About:
   - Overview: about/overview.md
   - Versioning: about/versioning.md
+  - CI/CD: about/cicd.md
 - Projects: projects.md
 - Experience: experience.md
 - Education: education.md
