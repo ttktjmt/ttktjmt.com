@@ -10,10 +10,9 @@ This website is developed for showcasing my information, managing my projects, h
 :simple-k3s:         k3s , &nbsp;
 :simple-docker:      Docker , &nbsp;
 :simple-python:      Python , &nbsp;
-:simple-git:         Git , &nbsp;
-:simple-github:      GitHub , &nbsp; <br>
-:simple-raspberrypi: Raspberry Pi , &nbsp;
-:simple-linux:       Linux
+:simple-github:      GitHub , &nbsp;
+:simple-linux:       Linux , &nbsp; <br>
+:simple-raspberrypi: Raspberry Pi
 </font>
 
 ## Architecture
