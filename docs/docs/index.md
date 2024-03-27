@@ -5,7 +5,7 @@ hide:
 ---
 
 <!-- TODO: format this for mobile devices -->
-<img src="img/profile.png" alt="Profile picture" width="22%" style="float: left; margin: 0% 10% 1% 10%;"/>
+<img src="https://avatars.githubusercontent.com/u/55564973" alt="Profile picture" width="22%" style="float: left; margin: 0% 10% 1% 10%; border-radius: 50%"/>
 
 <h1 style="margin: 4.5% 0.5% 3% 0.5%; font-weight: bold;">
   Hi 👋 I am Tatsuki Tsujimoto
