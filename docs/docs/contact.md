@@ -20,5 +20,5 @@ You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in
 
 You can also send me an email from the button below.
 
-[Send :fontawesome-solid-paper-plane:](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com){ .md-button }
+[Send Email :fontawesome-solid-paper-plane:](https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com){ .md-button }
 

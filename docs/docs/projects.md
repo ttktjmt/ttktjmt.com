@@ -46,8 +46,10 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 ---
 
-### **TETRIS on Arduino Game Console** <a href="https://youtu.be/Kmq4INAJUeA" target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 2rem;"> :simple-youtube: </a>
+### **TETRIS on Arduino Game Console** <a href="https://youtu.be/Kmq4INAJUeA" target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 2rem;"> :simple-youtube: </a> <a href="https://drive.google.com/drive/folders/1XIpsRjvyxm8ZJICFTqMlnAM3WdH2CrXw?usp=drive_link" target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
+
+I created a classic game console using an [Arduino Nano](https://store.arduino.cc/products/arduino-nano) and a lot of LEDs. To extend the controllable pin capacity of the Arduino Nano, I used shift registers ([SN74HC595](https://www.ti.com/product/SN74HC595)). I soldered 136 LEDs by hand onto a universal board (I know, it's a menace...), allowing independent control of each LED via the Arduino Nano. Using matrix processing, I developed TETRIS in the Arduino language, carefully implementing boundary conditions and block collision avoidance to ensure that the game runs smoothly and is less prone to bugs.
 
 <span style="color: teal;">
-:wrench: &nbsp; **Skills** : :material-soldering-iron: Soldering , :simple-arduino: Arduino
+:wrench: &nbsp; **Skills** : :simple-arduino: Arduino , :material-soldering-iron: Soldering , :material-gamepad-variant: Game Dev
 </span>
