@@ -16,11 +16,21 @@ hide:
 
 ---
 <font size=4rem>
-Contributed to the development of Pantograph, a tool that visualizes genomic data from agricultural sources and identifies genome patterns linked to desired traits (e.g., disease resistance, fruit yield). Designed and implemented a C++ backend CLI tool to convert large genomic datasets for the tool. Independently built a Python FastAPI to seamlessly deliver graph data to the Vue.js front-end. Orchestrated the cloud deployment of the entire system using Docker, Kubernetes, and AWS services (IAM, EKS, S3, RDS), enabling online operation and scalability. Actively learned genomic analysis, networking concepts (APIs, IP addresses, ant etc), and cloud technologies, demonstrating strong problem-solving abilities and technical growth.
+Contributed to the development of Pantograph, a tool that visualizes genomic data from agricultural sources and identifies genome patterns linked to desired traits (e.g., disease resistance, fruit yield). Designed and implemented a C++ backend CLI tool to convert large genomic datasets for the tool as an extension of an Open Source Software. Independently built a Python FastAPI to seamlessly deliver graph data to the front-end. Orchestrated the cloud deployment of the entire system using Docker, Kubernetes, and AWS services, enabling online operation and scalability. Actively learned genomic analysis, networking concepts, and cloud technologies, demonstrating strong problem-solving abilities and technical growth.
 </font>
 
 <span style="color: teal;">
-:wrench: &nbsp; **Skills** : :simple-cplusplus: C++ , :simple-python: Python , :simple-fastapi: FastAPI , :simple-kubernetes: Kubernetes , :simple-amazonaws: AWS (IAM, EKS, S3, RDS) , :simple-postgresql: PostgreSQL , :simple-gitlab: GitLab , :octicons-command-palette-16: CLI Tool Dev , :material-developer-board: Software Development , :material-robot: Machine Learning
+:wrench: &nbsp; **Skills** :
+ :simple-cplusplus:             C++ ,
+ :simple-python:                Python ,
+ :simple-fastapi:               FastAPI ,
+ :simple-kubernetes:            Kubernetes ,
+ :simple-amazonaws:             AWS (IAM, EKS, S3, RDS) ,
+ :simple-postgresql:            PostgreSQL ,
+ :simple-gitlab:                GitLab ,
+ :octicons-command-palette-16:  CLI Tool Dev ,
+ :material-developer-board:     Software Development ,
+ :material-robot:               Machine Learning
 </span>
 
 <br><br>
@@ -40,7 +50,16 @@ As a member of R&D team, I focused on healthcare applications by analyzing navel
 </font>
 
 <span style="color: teal;">
-:wrench: &nbsp; **Skills** : :simple-python: Python , :simple-firebase: Firebase , :simple-flutter: Flutter , :simple-github: GitHub , :simple-bluetooth: BLE Dev , :material-database: Database Configuration , :material-android: Mobile App Dev , :material-chart-bar: Data Analysis , :material-developer-board: Software Development
+:wrench: &nbsp; **Skills** :
+ :simple-python:            Python ,
+ :simple-firebase:          Firebase ,
+ :simple-flutter:           Flutter ,
+ :material-android:         Mobile App Dev ,
+ :simple-github:            GitHub ,
+ :simple-bluetooth:         BLE Dev ,
+ :material-database:        Database Configuration ,
+ :material-chart-bar:       Data Analysis ,
+ :material-developer-board: Software Development
 </span>
 
 <br><br>
@@ -60,7 +79,9 @@ Co-founded a wearable device company with a colleague, and actively participated
 </font>
 
 <span style="color: teal;">
-:wrench: &nbsp; **Skills** : :material-chart-bar: Data Analysis , :material-developer-board: Software Development
+:wrench: &nbsp; **Skills** :
+ :material-chart-bar:       Data Analysis ,
+ :material-developer-board: Software Development
 </span>
 
 <br><br>

@@ -12,15 +12,15 @@ hide:
 </h1>
 
 <font size=4>
-As a Software Engineer, my aspiration is to harness scientific knowledge and technology to craft solutions that genuinely aid people.<br>
+As a Software Engineer, my aspiration is to harness scientific knowledge and technology to craft solutions that genuinely help people.<br>
 I am particularly interested in back-end development in the medical, healthcare, and AI areas.
 </font>
 
 <div style="clear: both;"></div>
 
 ---
-**Portfolio Website**: [https://ttktjmt.com](https://ttktjmt.com)  
-**Source Code**: [https://github.com/ttktjmt/ttktjmt.com](https://github.com/ttktjmt/ttktjmt.com)
+**Portfolio Website**: [https://ttktjmt.com](https://ttktjmt.com){:target="_blank"}<br>
+**Source Code**: [https://github.com/ttktjmt/ttktjmt.com](https://github.com/ttktjmt/ttktjmt.com){:target="_blank"}
 ---
 
 ## More About Me

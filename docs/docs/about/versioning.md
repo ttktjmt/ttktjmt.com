@@ -1,7 +1,7 @@
 
 # Versioning
 
-This website adheres to the principles of [Semantic Versioning (SemVer)](https://semver.org), a widely adopted versioning scheme in the software development industry. The current version of this site can be found on the top right corner of any page.
+This website adheres to the principles of [Semantic Versioning (SemVer)](https://semver.org){:target="_blank"}, a widely adopted versioning scheme in the software development industry. The current version of this site can be found on the top right corner of any page.
 
 ## What is Semantic Versioning?
 
