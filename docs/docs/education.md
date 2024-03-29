@@ -13,25 +13,27 @@ hide:
     University of Electro-Communications
 </h1>
 <h4 style="margin: 0rem;">
-    Master (expected) · Informatics and Engineering · Mechanical and Intelligent Systems Engineering
+    Master · Informatics and Engineering · Mechanical and Intelligent Systems Engineering
 </h4>
 
 ---
-<font size=4rem>
-I have focused on deepening my knowledge in various programming languages including C and Python. My coursework covered the basics of these programming languages, extending to more complex applications such as the implementation of the least squares method and Fourier transform. Furthermore, I explored AI technologies, diving into the mathematical basics of dimensionality reduction methods and image recognition using Python.
-</font>
 
+:trophy: &nbsp; **Achievements** <br>
+
+Our laboratory successfully commercialized a cyborg prosthetic hand with five independently controlled fingers and an adaptive learning function approved by the Ministry of Health, Labor and Welfare. This is the 2nd electric prosthetic hand approved by the goverment and made in Japan.
 
 :mag: &nbsp; **Research** <br>
 
-- Thesis titled "Evaluation of the Impact of Feature Space Display Function on the Discrimination Performance of Multi-DoF Myoelectric Prosthetic Hands." This research introduced a novel training method incorporating feedback through a feature space graph. The graph illustrated relationships between various hand motions (e.g., grasping, open hand, pinching) employing a dimensionality reduction technique. Additionally, developed an Android application to support the thesis findings.
+* **Master Thesis** : Work in progress now :fire: <br>
+* **Published Paper** : 
+    - "Development of Training Method for Pattern Discrimination Controlled Myoelectric Prosthetic Hand Using Feature Space Display Function" [[link](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141)]
+* **Contribution** : 
+    - Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889.
+
+
 
 <span style="color: teal;">
 :wrench: &nbsp; **Skills** : :simple-c: C , :simple-cplusplus: C++ , :simple-python: Python , :material-math-integral-box: Matlib , :simple-linux: Linux , :simple-latex: LaTeX , :simple-sourcetree: SourceTree , :simple-bitbucket: Bitbucket
-
-- Programming Languages: Proficient in C++, Python
-- Technical Proficiencies: Extensive experience in implementing algorithms, dimensionality reduction methods, and image recognition
-- Project Management: Demonstrated ability to develop and manage a significant research project from conception through to the development of an accompanying application
 </span>
 
 
@@ -48,18 +50,10 @@ I have focused on deepening my knowledge in various programming languages includ
 </h4>
 
 ---
-<font size=4rem>
-**Relevant Coursework:**
-
-- Programming Languages (C, Python)
-- Signal Processing (Least Squares, Fourier Transform)
-- Machine Learning (Dimensionality Reduction, Image Recognition)
-</font>
 
 :trophy: &nbsp; **Awards** <br>
 
 Elected [Valedictorian at graduation](https://megurokai.jp/home2/2022megurokaisho/){:target="_blank"} and recieved the Meguro Association Award for highest academic achievement
-
 
 :mag: &nbsp; **Research** <br>
 
