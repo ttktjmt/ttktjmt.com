@@ -24,7 +24,7 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 :mag: &nbsp; **Research** <br>
 
-* **Master Thesis** : Work in progress now :fire: <br>
+* **Master's Thesis** : Work in progress now :fire: <br>
 * **Papers (Published & Contributed)** : 
 > [1] T. Tsujimoto, et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," Proceedings of the 41st Annual Conference of the Robotics Society of Japan, 11-14 Sept. 2023, Sendai International Center, Sendai. [[link](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
 > 
