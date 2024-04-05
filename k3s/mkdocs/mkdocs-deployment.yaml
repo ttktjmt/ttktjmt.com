@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: mkdocs-deployment
-        image: ttktjmt/mkdocs-deployment:v0.0.0
+        image: ttktjmt/ttktjmt-mkdocs:v0.1.0
+        imagePullPolicy: Always
         ports:
-        - containerPort: 80
+        - containerPort: 8000

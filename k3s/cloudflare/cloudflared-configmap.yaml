@@ -1,0 +1,20 @@
+# Forked from: https://github.com/cloudflare/argo-tunnel-examples/blob/master/named-tunnel-k8s/cloudflared.yaml
+
+# credential was created by the following command:
+#   kubectl create namespace cloudflare-server
+#   kubectl create secret generic cloudflare-token --from-literal=CLOUDFLARE_TUNNEL_TOKEN='<token-string>' --namespace=cloudflare-server
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cloudflared
+data:
+  config.yaml: |
+    tunnel: ttktjmt-rpi4
+    credentials-file: /etc/cloudflared/creds/credentials.json
+    metrics: 0.0.0.0:2000
+    no-autoupdate: true
+    ingress:
+    - hostname: ttktjmt.com
+      service: http://traefik.kube-system.svc.cluster.local:80
+    - service: http_status:404

@@ -17,6 +17,26 @@ Semantic Versioning provides a clear and consistent way to communicate changes i
 
 ## Versioning on This Website
 
-The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested on the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version is released following the SemVer guidelines.
+The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested on the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version is released following the specific guidelines below (based on SemVer).
+
+- **MAJOR version**:
+    * Structural changes (e.g. changing the framework, migrating to a new static site generator)
+    * Significant design changes
+    * Changes that break compatibility with existing themes or plugins
+    * Substantial reorganization of the website's content structure or navigation
+
+- **MINOR version**:
+    * Page changes (e.g. adding/deleting new pages)
+    * Adding new features or sections to the website
+    * Introducing new plugins or themes that are compatible with the existing codebase
+    * Upgrading dependencies (e.g. MkDocs, Python, etc.) to a new version
+    * Improving accessibility or performance without breaking existing functionality
+
+- **PATCH version**:
+    * Typo fixes
+    * Content changes (e.g. updating existing content, fixing broken links)
+    * Fixing bugs or issues
+    * Updating dependencies to a newer patch version for security or bug fixes
+    * Minor styling or CSS adjustments that do not alter the overall design
 
 This approach ensures that the `main` branch always represents the latest stable release, while the `dev` branch serves as a staging area for upcoming changes. By adhering to this process, I can maintain a robust and reliable website while continuously improving and adding new functionality.

@@ -1,5 +1,5 @@
 
-# Personal Projects
+# Projects
 
 ---
 
@@ -11,6 +11,7 @@ Check out the [**About tab**](about/overview.md) for more details!!
 :wrench: &nbsp; **Skills** :
  :simple-kubernetes: Kubernetes ,
  :simple-k3s: k3s ,
+ :simple-lens: Lens ,
  :simple-python: Python ,
  :simple-github: GitHub ,
  :simple-raspberrypi: Raspberry Pi

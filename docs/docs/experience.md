@@ -28,6 +28,8 @@ Contributed to the development of Pantograph, a tool that visualizes genomic dat
  :simple-amazonaws:             AWS (IAM, EKS, S3, RDS) ,
  :simple-postgresql:            PostgreSQL ,
  :simple-gitlab:                GitLab ,
+ :simple-rancher:               Rancher ,
+ :simple-lens:                  Lens ,
  :octicons-command-palette-16:  CLI Tool Dev ,
  :material-developer-board:     Software Development ,
  :material-robot:               Machine Learning
