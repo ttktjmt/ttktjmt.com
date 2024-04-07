@@ -15,9 +15,9 @@ Semantic Versioning is a versioning system that conveys meaningful information a
 
 Semantic Versioning provides a clear and consistent way to communicate changes in software versions, ensuring that users and developers can understand the implications of updating to a new version. It promotes better collaboration, easier maintenance, and improved compatibility across different components and systems.
 
-## Versioning on This Website
+## Versioning of This Website
 
-The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested on the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version is released following the specific guidelines below (based on SemVer).
+The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested under the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version would be released by following the specific guidelines below (based on SemVer).
 
 - **MAJOR version**:
     * Structural changes (e.g. changing the framework, migrating to a new static site generator)
