@@ -1,3 +1,7 @@
+# Run the following command to build and push the image to the Docker Hub manually:
+# docker login
+# docker buildx build --platform linux/arm64 -t ttktjmt/ttktjmt-mkdocs:v0.0.0 . --push
+
 FROM python:3.11-alpine3.18
 
 ENV PACKAGES="/usr/local/lib/python3.11/site-packages"

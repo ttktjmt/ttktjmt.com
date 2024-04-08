@@ -7,9 +7,11 @@ This website adheres to the principles of [Semantic Versioning (SemVer)](https:/
 
 Semantic Versioning is a versioning system that conveys meaningful information about the nature of version changes and compatibility between versions. A version number consists of three parts: MAJOR, MINOR, and PATCH, formatted as `MAJOR.MINOR.PATCH`.
 
-- **MAJOR version**: Incremented when incompatible API changes are introduced.
-- **MINOR version**: Incremented when new backward-compatible functionality is added.
-- **PATCH version**: Incremented when backward-compatible bug fixes are made.
+| Version Type | Description |
+|--------------|-------------|
+| `MAJOR`      | Incompatible API changes |
+| `MINOR`      | New backward-compatible functionality |
+| `PATCH`      | Backward-compatible bug fixes |
 
 ## Why Semantic Versioning?
 
@@ -19,24 +21,31 @@ Semantic Versioning provides a clear and consistent way to communicate changes i
 
 The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested under the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version would be released by following the specific guidelines below (based on SemVer).
 
-- **MAJOR version**:
+=== "**MAJOR**"
+
     * Structural changes (e.g. changing the framework, migrating to a new static site generator)
     * Significant design changes
     * Changes that break compatibility with existing themes or plugins
     * Substantial reorganization of the website's content structure or navigation
 
-- **MINOR version**:
+=== "**MINOR**"
+
     * Page changes (e.g. adding/deleting new pages)
     * Adding new features or sections to the website
     * Introducing new plugins or themes that are compatible with the existing codebase
     * Upgrading dependencies (e.g. MkDocs, Python, etc.) to a new version
     * Improving accessibility or performance without breaking existing functionality
 
-- **PATCH version**:
+=== "**PATCH**"
+
     * Typo fixes
     * Content changes (e.g. updating existing content, fixing broken links)
     * Fixing bugs or issues
     * Updating dependencies to a newer patch version for security or bug fixes
     * Minor styling or CSS adjustments that do not alter the overall design
 
-This approach ensures that the `main` branch always represents the latest stable release, while the `dev` branch serves as a staging area for upcoming changes. By adhering to this process, I can maintain a robust and reliable website while continuously improving and adding new functionality.
+
+This approach ensures that the `main` branch always represents the latest stable release, while the `dev` branch serves as a staging area for upcoming changes. By adhering to this process, I can maintain a robust and reliable website while continuously improving and adding new functionality.<br>
+!!! note
+    
+    The version `v0.0.0` is used for general purpose of testing (such as checking if the GitHub Actions workflow works properly)
