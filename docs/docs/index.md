@@ -1,4 +1,7 @@
 ---
+social:
+  cards_layout_options:
+    title: Check out my portfolio website!!
 hide:
   - navigation
   - toc
@@ -27,6 +30,11 @@ I am particularly interested in back-end development in the medical, healthcare,
 
 * :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
 * :speaking_head:     &nbsp; I speak Japanese, English, and a bit of German
-* :basketball:        &nbsp; I like playing basketball and watching NBA :\)
-* :gear:              &nbsp; Check out the configuration of my portfolio from the [**About Tab**](about/overview.md)
-* :octicons-mail-16:  &nbsp; You can find contact infomation from the [**Contact Tab**](contact.md)
+* :basketball:        &nbsp; I like playing basketball and watching NBA games :\)
+* :books:             &nbsp; My current favorite book is: [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
+* :octicons-mail-16:  &nbsp; You can find my contact info in the [**Contact Tab**](contact.md)
+
+## This Website is running on my Raspberry Pi 4
+
+The web server for this site is running in the kubernetes cluster on my raspberry pi 4.<br>
+Are you interestead in the configuration? :point_right: Check out the [**About Tab**](about/overview.md) for more details of this website!!

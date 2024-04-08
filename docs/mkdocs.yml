@@ -49,6 +49,11 @@ theme:
 # Plugins
 plugins:
   - search
+# Reference this site for installing additional dependencies:
+# https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
+#  - social:
+#      cards_layout_options:
+#        title: Tatsuki's Portfolio
 
 # Additional configuration
 extra:
@@ -57,17 +62,25 @@ extra:
       link: https://github.com/ttktjmt
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tatsukitsujimot
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCC0JESLuRRbH-WDiCPgRrDw
-    - icon: fontawesome/solid/envelope
-      link: https://mail.google.com/mail/?view=cm&source=mailto&to=tatsuki.tsujimoto@gmail.com
+    - icon: fontawesome/solid/code
+      link: https://leetcode.com/ta747375ki
 
 # Extensions
 markdown_extensions:
   - attr_list
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # Page tree
 nav:
