@@ -10,17 +10,17 @@ hide:
 <img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
 
 <h1 style="margin: 0.9rem 0rem 0rem 5rem; font-weight: bold;">
-    University of Electro-Communications
+    Master of Informatics and Engineering
 </h1>
-<h4 style="margin: 0rem;">
-    Master · Informatics and Engineering · Mechanical and Intelligent Systems Engineering
+<h4 style="margin: 0rem; color: gray;">
+    University of Electro-Communications · Department of Mechanical and Intelligent Systems Engineering
 </h4>
 
 ---
 
 :trophy: &nbsp; **Achievements** <br>
 
-Our lab successfully commercialized a cyborg prosthetic hand with five independently controlled fingers and an adaptive learning function approved by the Ministry of Health, Labor and Welfare. This is the 2nd electric prosthetic hand covered by insurance, approved by the goverment, and made in Japan.
+Our lab successfully commercialized a cyborg prosthetic hand with five independently controlled fingers and an adaptive learning function approved by the Ministry of Health, Labor and Welfare. This is the 2nd electric prosthetic hand covered by insurance in Japan, approved by the goverment, and made in Japan.
 
 :mag: &nbsp; **Research** <br>
 
@@ -48,10 +48,10 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 <img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
 
 <h1 style="margin: 0.9rem 0rem 0rem 5rem; font-weight: bold;">
-    University of Electro-Communications
+    Bachelor of Informatics and Engineering
 </h1>
-<h4 style="margin: 0rem;">
-    Bachelor · Informatics and Engineering
+<h4 style="margin: 0rem; color: gray;">
+    University of Electro-Communications
 </h4>
 
 ---
