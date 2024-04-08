@@ -31,21 +31,22 @@ The versioning of this website is managed through a Git workflow involving the `
 === "**MINOR**"
 
     * Page changes (e.g. adding/deleting new pages)
-    * Adding new features or sections to the website
-    * Introducing new plugins or themes that are compatible with the existing codebase
-    * Upgrading dependencies (e.g. MkDocs, Python, etc.) to a new version
-    * Improving accessibility or performance without breaking existing functionality
+    * New features or sections to the website
+    * New plugins or themes
+    * Upgrading dependencies (e.g. MkDocs, Python, etc.)
+    * Improving accessibility or performance
 
 === "**PATCH**"
 
-    * Typo fixes
     * Content changes (e.g. updating existing content, fixing broken links)
+    * Typo fixes
     * Fixing bugs or issues
-    * Updating dependencies to a newer patch version for security or bug fixes
-    * Minor styling or CSS adjustments that do not alter the overall design
+    * Updating dependencies for security or bug fixes
+    * Minor styling or CSS adjustments
 
 
 This approach ensures that the `main` branch always represents the latest stable release, while the `dev` branch serves as a staging area for upcoming changes. By adhering to this process, I can maintain a robust and reliable website while continuously improving and adding new functionality.<br>
+
 !!! note
     
     The version `v0.0.0` is used for general purpose of testing (such as checking if the GitHub Actions workflow works properly)

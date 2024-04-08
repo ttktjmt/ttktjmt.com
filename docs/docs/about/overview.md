@@ -1,6 +1,6 @@
 
 This website is developed for showcasing my information, managing my projects, hosting and sharing my blog posts, and etc.<br>
-The web server for this site is running as a [deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/){:target="_blank"} resource in the k3s cluster on my raspberry pi 4 at home. The service is exposed by utilizing Traefik and [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/){:target="_blank"}.
+The web server for this site is running as a [deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/){:target="_blank"} resource in the [k3s](https://docs.k3s.io) cluster on my raspberry pi 4 at home. The service is exposed by utilizing Traefik and [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/){:target="_blank"}.
 
 
 ## Architecture
