@@ -49,6 +49,11 @@ theme:
 # Plugins
 plugins:
   - search
+# Reference this site for installing additional dependencies:
+# https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
+#  - social:
+#      cards_layout_options:
+#        title: Tatsuki's Portfolio
 
 # Additional configuration
 extra:
