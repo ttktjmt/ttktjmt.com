@@ -19,7 +19,7 @@ Semantic Versioning provides a clear and consistent way to communicate changes i
 
 ## Versioning of This Website
 
-The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested under the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version would be released by following the specific guidelines below (based on SemVer).
+The versioning of this website is managed through a Git workflow involving the `main` and `dev` branches. New features and improvements are developed and tested under the `dev` branch. Once a set of changes is thoroughly reviewed and deemed stable, they are merged into the `main` branch, and a new version will be released by following the specific guidelines below (based on the SemVer scheme).
 
 === "**MAJOR**"
 
@@ -49,4 +49,4 @@ This approach ensures that the `main` branch always represents the latest stable
 
 !!! note
     
-    The version `v0.0.0` is used for general purpose of testing (such as checking if the GitHub Actions workflow works properly)
+    The version tag `v0.0.0` is used for general purpose of testing (such as checking if the GitHub Actions workflow works properly)

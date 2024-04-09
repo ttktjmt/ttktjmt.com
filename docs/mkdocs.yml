@@ -30,8 +30,8 @@ theme:
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
-    primary: indigo
-    accent: cyan
+    primary: teal
+    accent: lime
     toggle:
       icon: material/lightbulb
       name: Switch to dark mode

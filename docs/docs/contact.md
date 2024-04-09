@@ -16,9 +16,12 @@ I am always excited to connect with others regarding potential job opportunities
 
 
 ## Contact Info
-You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in/tatsukitsujimoto/).
+You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in/tatsukitsujimoto){:target="_blank"}.
 
-You can also send me an email from the button below.
+You can send me an email to 
+<span style="color: var(--md-accent-fg-color);">
+  **contact [at] ttktjmt.com**
+</spam>
+.
 
 [Send an Email :fontawesome-solid-paper-plane:](mailto:contact@ttktjmt.com){ .md-button }
-
