@@ -26,9 +26,9 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 * **Master's Thesis** : Work in progress now :fire: <br>
 * **Papers (Published & Contributed)** : 
-> [1] T. Tsujimoto, et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," Proceedings of the 41st Annual Conference of the Robotics Society of Japan, 11-14 Sept. 2023, Sendai International Center, Sendai. [[link](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
+> [1] T. Tsujimoto, et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," Proceedings of the 41st Annual Conference of the Robotics Society of Japan, 11-14 Sept. 2023, Sendai International Center, Sendai. [[conference info](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
 > 
-> [2] Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889.
+> [2] Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
 
 <span style="color: teal;">
 :wrench: &nbsp; **Skills** :
