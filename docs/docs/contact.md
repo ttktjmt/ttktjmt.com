@@ -21,7 +21,7 @@ You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in
 You can send me an email to 
 <span style="color: var(--md-accent-fg-color);">
   **contact [at] ttktjmt.com**
-</spam>
+</span>
 .
 
 [Send an Email :fontawesome-solid-paper-plane:](mailto:contact@ttktjmt.com){ .md-button }
