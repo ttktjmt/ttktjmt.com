@@ -36,5 +36,5 @@ I am particularly interested in back-end development in the medical, healthcare,
 
 ## This Website is running on my Raspberry Pi 4
 
-The web server for this site is running in the kubernetes cluster on my raspberry pi 4.<br>
+The web server for this site is running in the kubernetes cluster on my [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/){:target="_blank"}.<br>
 Are you interestead in the configuration? :point_right: Check out the [**About Tab**](about/overview.md) for more details of this website!!
