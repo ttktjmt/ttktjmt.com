@@ -10,13 +10,12 @@ The web server for this site is running as a [deployment](https://kubernetes.io/
 ![Architecture](../graph/arch-dark.png#only-dark)
 
 
-## Related Skills
-<font size='4' style="color: teal;">
-:simple-kubernetes:  Kubernetes ,
- :simple-k3s:           k3s ,
- :simple-docker:        Docker ,
- :simple-python:        Python ,
- :simple-github:        GitHub ,
- :simple-linux:         Linux ,
- :simple-raspberrypi:   Raspberry Pi
-</font>
+???+ skills
+
+    :simple-kubernetes:  Kubernetes ,
+    :simple-k3s:           k3s ,
+    :simple-docker:        Docker ,
+    :simple-python:        Python ,
+    :simple-github:        GitHub ,
+    :simple-linux:         Linux ,
+    :simple-raspberrypi:   Raspberry Pi
