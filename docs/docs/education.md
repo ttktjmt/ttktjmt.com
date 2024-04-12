@@ -9,7 +9,7 @@ hide:
 <!-- Master -->
 <img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
 
-<h1 style="margin: 0.9rem 0rem 0rem 5rem; font-weight: bold;">
+<h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Master of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
@@ -30,24 +30,24 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 > 
 > [2] Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-cplusplus:             C++ ,
- :simple-python:                Python ,
- :simple-qt:                    Qt ,
- :simple-linux:                 Linux ,
- :simple-latex:                 LaTeX ,
- :simple-sourcetree:            SourceTree ,
- :simple-bitbucket:             Bitbucket ,
- :simple-googlecolab:           Google Colab
-</span>
+???+ skills
+
+    :simple-c:              C ,
+    :simple-cplusplus:      C++ ,
+    :simple-python:         Python ,
+    :simple-qt:             Qt ,
+    :simple-linux:          Linux ,
+    :simple-latex:          LaTeX ,
+    :simple-sourcetree:     SourceTree ,
+    :simple-bitbucket:      Bitbucket ,
+    :simple-googlecolab:    Google Colab
 
 <br><br>
 
 <!-- Bachelor -->
 <img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
 
-<h1 style="margin: 0.9rem 0rem 0rem 5rem; font-weight: bold;">
+<h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Bachelor of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
@@ -64,18 +64,18 @@ Elected [Valedictorian at graduation](https://megurokai.jp/home2/2022megurokaish
 
 I developed and proposed a novel approach to myoelectric prosthetic hand training by introducing real-time feature space visualization. By applying principal component analysis (PCA) to convert complex electromyography (EMG) data into an intuitive two-dimensional format, I enhanced the training experience for users, particularly novices. The core of my project involved developing an Android app for real-time, accessible feedback, leading to improved user proficiency and performance.
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-c:                     C ,
- :simple-cplusplus:             C++ ,
- :simple-python:                Python ,
- :material-math-integral-box:   MATLAB ,
- :simple-qt:                    Qt ,
- :simple-linux:                 Linux ,
- :simple-latex:                 LaTeX ,
- :simple-sourcetree:            SourceTree ,
- :simple-bitbucket:             Bitbucket ,
- :simple-googlecolab:           Google Colab
-</span>
+
+???+ skills
+
+    :simple-c:                     C ,
+    :simple-cplusplus:             C++ ,
+    :simple-python:                Python ,
+    :material-math-integral-box:   MATLAB ,
+    :simple-qt:                    Qt ,
+    :simple-linux:                 Linux ,
+    :simple-latex:                 LaTeX ,
+    :simple-sourcetree:            SourceTree ,
+    :simple-bitbucket:             Bitbucket ,
+    :simple-googlecolab:           Google Colab
 
 <br><br>

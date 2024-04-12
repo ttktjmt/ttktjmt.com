@@ -7,14 +7,13 @@
 
 Check out the [**About tab**](about/overview.md) for more details!!
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-kubernetes: Kubernetes ,
- :simple-k3s: k3s ,
- :simple-python: Python ,
- :simple-github: GitHub ,
- :simple-raspberrypi: Raspberry Pi
-</span>
+???+ skills
+
+    :simple-kubernetes: Kubernetes ,
+    :simple-k3s: k3s ,
+    :simple-python: Python ,
+    :simple-github: GitHub ,
+    :simple-raspberrypi: Raspberry Pi
 
 ---
 
@@ -23,13 +22,12 @@ Check out the [**About tab**](about/overview.md) for more details!!
 The [Galton Board](https://en.wikipedia.org/wiki/Galton_board){:target="_blank"}, also known as the Galton box, quincunx or bean machine, is a device that visually demonstrates the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"} by dropping balls through a pegged board, resulting in a normal distribution.<br>
 I developed a 2D simulator as an Android app using [box2d](https://github.com/erincatto/box2d){:target="_blank"} as a physics engine. It uses the accelerometer sensor in the phone to change the gravity in the application, resulting in a different distribution.
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-cplusplus: C++ ,
- :simple-qt: Qt ,
- :material-shape: Physics Engine (Box2D) ,
- :simple-github: GitHub
-</span>
+???+ skills
+
+    :simple-cplusplus: C++ ,
+    :simple-qt: Qt ,
+    :material-shape: Physics Engine (Box2D) ,
+    :simple-github: GitHub
 
 ---
 
@@ -37,10 +35,10 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
 coming soon...
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-notion: MATLAB ,
-</span>
+???+ skills
+
+    :simple-notion: Notion ,
+    :simple-cloudflare: Cloudflare
 
 ---
 
@@ -49,11 +47,9 @@ coming soon...
 I developed and published a website for the company that was launched from the university laboratory I was affiliated with, using Notion and Cloudflare.
 I also carried out tasks such as registering domain names and creating email addresses for them.
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-notion: Notion ,
- :simple-cloudflare: Cloudflare
-</span>
+???+ skills
+
+    :material-math-integral-box: MATLAB
 
 ---
 
@@ -62,11 +58,10 @@ I also carried out tasks such as registering domain names and creating email add
 I built my own robot hand from cardboard, servo motors, string, etc., connected it to a Raspberry Pi and a USB microphone, and used voice recognition to control it with my voice.<br>
 The idea behind this project was to enable anyone to operate a high DOF prosthetic hand without training, as I felt that operating a prosthetic hand with electrical signals from muscles is intuitive but difficult to achieve high DOF.
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-python: Python ,
- :simple-raspberrypi: Raspberry Pi
-</span>
+???+ skills
+
+    :simple-python: Python ,
+    :simple-raspberrypi: Raspberry Pi
 
 ---
 
@@ -74,9 +69,8 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 I created a classic game console using an [Arduino Nano](https://store.arduino.cc/products/arduino-nano){:target="_blank"} and a lot of LEDs. To extend the controllable pin capacity of the Arduino Nano, I used shift registers ([SN74HC595](https://www.ti.com/product/SN74HC595){:target="_blank"}). I soldered 136 LEDs by hand onto a universal board (I know, it's a menace...), allowing independent control of each LED via the Arduino Nano. Using matrix processing, I developed TETRIS in the Arduino language, carefully implementing boundary conditions and block collision avoidance to ensure that the game runs smoothly and is less prone to bugs.
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-arduino: Arduino ,
- :material-soldering-iron: Soldering ,
- :material-gamepad-variant: Game Dev
-</span>
+???+ skills
+
+    :simple-arduino: Arduino ,
+    :material-soldering-iron: Soldering ,
+    :material-gamepad-variant: Game Dev

@@ -66,6 +66,10 @@ extra:
     - icon: fontawesome/solid/code
       link: https://leetcode.com/ta747375ki
 
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
+
 # Extensions
 markdown_extensions:
   - attr_list
