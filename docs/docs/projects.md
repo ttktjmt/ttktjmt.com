@@ -20,8 +20,8 @@ Check out the [**About tab**](about/overview.md) for more details!!
 
 ### **Galton Board Simulator** <a href="https://github.com/ttktjmt/galtonboard-qt" target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 2rem;"> :simple-github: </a>
 
-The [Galton Board](https://en.wikipedia.org/wiki/Galton_board){:target="_blank"}, also known as the Galton box, quincunx or bean machine, is a device that visually demonstrates the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"} by dropping balls through a pegged board, resulting in a distribution that approximates a normal distribution.<br>
-I developed a 2D simulator as an Android app using [box2d](https://github.com/erincatto/box2d){:target="_blank"} as a physics engine. It uses the accelerometer in the phone to change the gravity in the application, resulting in a different distribution.
+The [Galton Board](https://en.wikipedia.org/wiki/Galton_board){:target="_blank"}, also known as the Galton box, quincunx or bean machine, is a device that visually demonstrates the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"} by dropping balls through a pegged board, resulting in a normal distribution.<br>
+I developed a 2D simulator as an Android app using [box2d](https://github.com/erincatto/box2d){:target="_blank"} as a physics engine. It uses the accelerometer sensor in the phone to change the gravity in the application, resulting in a different distribution.
 
 <span style="color: teal;">
 :wrench: &nbsp; **Skills** :
@@ -34,6 +34,17 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 ---
 
 ### **Company Website** <a href="https://mu-borg.com" target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 2rem;"> :material-web: </a>
+
+coming soon...
+
+<span style="color: teal;">
+:wrench: &nbsp; **Skills** :
+ :simple-notion: MATLAB ,
+</span>
+
+---
+
+### **Sleep Quality Measurement App** <a href="https://mu-borg.com" target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 2rem;"> :material-web: </a>
 
 I developed and published a website for the company that was launched from the university laboratory I was affiliated with, using Notion and Cloudflare.
 I also carried out tasks such as registering domain names and creating email addresses for them.

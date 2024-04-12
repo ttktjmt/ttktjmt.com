@@ -51,7 +51,7 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
     Bachelor of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
-    University of Electro-Communications
+    University of Electro-Communications · Department of Advanced Robotics Program
 </h4>
 
 ---

@@ -82,6 +82,8 @@ Co-founded a wearable device company with a colleague, and actively participated
 
 <span style="color: teal;">
 :wrench: &nbsp; **Skills** :
+ :simple-python:            Python ,
+ :simple-arduino:           Arduino ,
  :material-chart-bar:       Data Analysis ,
  :material-developer-board: Software Development
 </span>

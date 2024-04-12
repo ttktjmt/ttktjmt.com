@@ -1,3 +1,6 @@
+
+# CI/CD
+
 This project leverages GitHub Actions to automate the deployment to GitHub Pages and the Docker image. By implementing these two workflows, the project benefits from a fully automated CI/CD pipeline, ensuring that the documentation site and the Docker image are always up-to-date and accessible to users.
 
 ## Deployment to GitHub Pages
