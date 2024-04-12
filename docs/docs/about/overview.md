@@ -6,6 +6,7 @@ The web server for this site is running as a [deployment](https://kubernetes.io/
 
 
 ## Architecture
+<!-- Generate these images from web console (app.diagrams.net) -->
 ![Architecture](../graph/arch-light.png#only-light)
 ![Architecture](../graph/arch-dark.png#only-dark)
 
