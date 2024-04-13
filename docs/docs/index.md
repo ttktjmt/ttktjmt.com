@@ -15,8 +15,8 @@ hide:
 </h1>
 
 <font size=4>
-As a Software Engineer, my aspiration is to harness scientific knowledge and technology to craft solutions that genuinely help people.<br>
-I am particularly interested in back-end development in the medical, healthcare, and AI areas.
+As a Software Developer, my goal is to apply scientific knowledge and technological advancements to create impactful solutions.<br>
+I am particularly interested in back-end development, with a focus on the medical, healthcare, and artificial intelligence sectors.
 </font>
 
 <div style="clear: both;"></div>
@@ -31,10 +31,10 @@ I am particularly interested in back-end development in the medical, healthcare,
 * :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
 * :speaking_head:     &nbsp; I speak Japanese, English, and a bit of German
 * :basketball:        &nbsp; I like playing basketball and watching NBA games :\)
-* :books:             &nbsp; My current favorite book is: [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
+* :books:             &nbsp; My current favorite book is [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
 * :octicons-mail-16:  &nbsp; You can find my contact info in the [**Contact Tab**](contact.md)
 
 ## This Website is running on my Raspberry Pi 4
 
-The web server for this site is running in the kubernetes cluster on my [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/){:target="_blank"}.<br>
+The web server for this site is running in the kubernetes cluster on my [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/){:target="_blank"} :simple-raspberrypi:.<br>
 Are you interestead in the configuration? :point_right: Check out the [**About Tab**](about/overview.md) for more details of this website!!

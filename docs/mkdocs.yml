@@ -27,6 +27,7 @@ theme:
   - content.code.copy
   - content.code.select
   - navigation.tabs
+  - header.links
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
@@ -65,6 +66,10 @@ extra:
     - icon: fontawesome/solid/code
       link: https://leetcode.com/ta747375ki
 
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
+
 # Extensions
 markdown_extensions:
   - attr_list
@@ -81,6 +86,8 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: true
 
 # Page tree
 nav:

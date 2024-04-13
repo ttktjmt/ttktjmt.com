@@ -19,21 +19,20 @@ hide:
 Contributed to the development of a tool that visualizes genomic data from agricultural sources and identifies genome patterns linked to desired traits (e.g., disease resistance, fruit yield). Designed and implemented a C++ backend CLI tool to convert large genomic datasets for the tool as an extension of an Open Source Software. Independently built a Python FastAPI to seamlessly deliver graph data to the front-end. Orchestrated the cloud deployment of the entire system using Docker, Kubernetes, and AWS services, enabling online operation and scalability. Actively learned genomic analysis, networking concepts, and cloud technologies, demonstrating strong problem-solving abilities and technical growth.
 </font>
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-cplusplus:             C++ ,
- :simple-python:                Python ,
- :simple-fastapi:               FastAPI ,
- :simple-kubernetes:            Kubernetes ,
- :simple-amazonaws:             AWS (IAM, EKS, S3, RDS) ,
- :simple-postgresql:            PostgreSQL ,
- :simple-gitlab:                GitLab ,
- :simple-rancher:               Rancher ,
- :simple-lens:                  Lens ,
- :octicons-command-palette-16:  CLI Tool Dev ,
- :material-developer-board:     Software Development ,
- :material-robot:               Machine Learning
-</span>
+???+ skills
+
+    :simple-cplusplus:             C++ ,
+    :simple-python:                Python ,
+    :simple-fastapi:               FastAPI ,
+    :simple-kubernetes:            Kubernetes ,
+    :simple-amazonaws:             AWS (IAM, EKS, S3, RDS) ,
+    :simple-postgresql:            PostgreSQL ,
+    :simple-gitlab:                GitLab ,
+    :simple-rancher:               Rancher ,
+    :simple-lens:                  Lens ,
+    :octicons-command-palette-16:  CLI Tool Dev ,
+    :material-robot:               Machine Learning ,
+    :material-developer-board:     Software Development
 
 <br><br>
 
@@ -51,18 +50,18 @@ Contributed to the development of a tool that visualizes genomic data from agric
 As a member of R&D team, I focused on healthcare applications by analyzing navel temperature for IoT integration. Contributed to developing a mobile application and IoT devices, and collaborated with external companies on experimental design and execution.
 </font>
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :simple-python:            Python ,
- :simple-firebase:          Firebase ,
- :simple-flutter:           Flutter ,
- :material-android:         Mobile App Dev ,
- :simple-github:            GitHub ,
- :simple-bluetooth:         BLE Dev ,
- :material-database:        Database Configuration ,
- :material-chart-bar:       Data Analysis ,
- :material-developer-board: Software Development
-</span>
+???+ skills
+
+    :simple-python:            Python ,
+    :simple-flutter:           Flutter ,
+    :simple-dart:              Dart ,
+    :simple-firebase:          Firebase ,
+    :simple-github:            GitHub ,
+    :material-android:         Mobile App Dev ,
+    :simple-bluetooth:         BLE Dev ,
+    :material-database:        Database ,
+    :material-chart-bar:       Data Analysis ,
+    :material-developer-board: Software Development
 
 <br><br>
 
@@ -80,10 +79,11 @@ As a member of R&D team, I focused on healthcare applications by analyzing navel
 Co-founded a wearable device company with a colleague, and actively participated in various business competitions. Also represented Nagano Prefecture at the Entrepreneur Expo, hosted by the Ministry of Internal Affairs and Communications and the NICT
 </font>
 
-<span style="color: teal;">
-:wrench: &nbsp; **Skills** :
- :material-chart-bar:       Data Analysis ,
- :material-developer-board: Software Development
-</span>
+???+ skills
+
+    :simple-python:            Python ,
+    :simple-arduino:           Arduino ,
+    :material-chart-bar:       Data Analysis ,
+    :material-developer-board: Software Development
 
 <br><br>
