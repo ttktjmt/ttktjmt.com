@@ -26,6 +26,7 @@
     to target the content */
 /* .admonition-content */
 .md-typeset .skills> :not(summary, .admonition-title) {
+    color: var(--md-primary-fg-color--light);
     font-size: 0.8rem;
 }
 
