@@ -17,17 +17,17 @@ theme:
   favicon: img/terminal-solid.svg
   language: en
   features:
+  - header.links
   - search.suggest
   - search.highlight
   - content.tabs.link
-  - navigation.indexes
   - content.tooltips
-  - navigation.path
   - content.code.annotate
   - content.code.copy
   - content.code.select
+  - navigation.indexes
+  - navigation.path
   - navigation.tabs
-  - header.links
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
