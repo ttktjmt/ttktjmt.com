@@ -100,7 +100,7 @@ nav:
 - Experience: experience.md
 - Education: education.md
 - Blog:
-  - Title1: blog/post1.md
+  - How to actually acquire a language: blog/how-to-actually-acquire-a-language.md
   - Title2: blog/post2.md
   - Title3: blog/post3.md
 - Contact: contact.md
