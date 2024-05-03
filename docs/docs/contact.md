@@ -22,7 +22,7 @@ You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in
   You can send me an email to
 </span>
 <style>
-  @media screen and (min-width: 60rem) {
+  @media screen and (min-width: 60rem) { /*the value 60rem is referenced from material for mkdocs when it hides table of contents*/
     .before-email {
       float: left;
     }
@@ -30,7 +30,7 @@ You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in
       width: 24rem;
     }
   }
-  @media screen and (max-width: 59.9rem) {
+  @media screen and (max-width: 59.99rem) {
     .email-code-block {
       width: 13rem;
     }
