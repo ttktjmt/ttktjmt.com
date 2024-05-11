@@ -50,6 +50,8 @@ theme:
 # Plugins
 plugins:
   - search
+  - blog:
+      draft_on_serve: false
 # Reference this site for installing additional dependencies:
 # https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
 #  - social:
@@ -100,7 +102,5 @@ nav:
 - Experience: experience.md
 - Education: education.md
 - Blog:
-  - How to actually acquire a language: blog/how-to-actually-acquire-a-language.md
-  - Title2: blog/post2.md
-  - Title3: blog/post3.md
+  - blog/index.md
 - Contact: contact.md
