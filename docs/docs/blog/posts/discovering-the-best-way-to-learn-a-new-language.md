@@ -5,7 +5,7 @@ categories:
     - Language
 ---
 
-# Discovering the Best Way to Learn a Language
+# Discovering the Best Way to Acquire a New Language
 
 Last year, I participated in a Japanese program called Vulcanus in Europe, which involved spending six months studying German at a language school in Germany, followed by a six-month full-time internship at a German company.
 
@@ -57,7 +57,7 @@ Inspired by this realization, I significantly changed my approach to learning Ge
 
 Implementing these methods and significantly increasing the time spent on them led to noticeable improvements in my German, especially in comprehension and speaking skills. By the end of my stay in Germany, I was able to converse almost entirely in German at my farewell party with my co-workers.
 
-Although I’m not yet confident enough to say that “I am fluent in German,"  I am now assured that with the right approach and sufficient time, I can achieve it. Moreover, I’ve discovered that learning a new language can be more enjoyable and exciting than commonly believed, motivating me to continue exploring new languages. And it’s free!!
+Although I’m not yet confident enough to say that “I am fluent in German,"  I am now assured that with the right approach and sufficient time, I can achieve it. Moreover, I’ve discovered that acquiring a new language can be more enjoyable and exciting than commonly believed, motivating me to continue exploring new languages. And it’s free!!
 
 Finally, it’s important to note, however, that while Krashen’s Input Hypothesis is influential and widely regarded, it is not universally accepted as the definitive method for language acquisition. The field of language learning is still evolving, and ongoing research continues to refine our understanding of how best to learn new languages. If you are interested, I also recommend you fall into the rabbit hole with me!!
 
