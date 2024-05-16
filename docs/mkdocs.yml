@@ -17,17 +17,17 @@ theme:
   favicon: img/terminal-solid.svg
   language: en
   features:
+  - header.links
   - search.suggest
   - search.highlight
   - content.tabs.link
-  - navigation.indexes
   - content.tooltips
-  - navigation.path
   - content.code.annotate
   - content.code.copy
   - content.code.select
+  - navigation.indexes
+  - navigation.path
   - navigation.tabs
-  - header.links
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
@@ -50,6 +50,8 @@ theme:
 # Plugins
 plugins:
   - search
+  - blog:
+      draft_on_serve: false
 # Reference this site for installing additional dependencies:
 # https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
 #  - social:
@@ -100,7 +102,5 @@ nav:
 - Experience: experience.md
 - Education: education.md
 - Blog:
-  - Title1: blog/post1.md
-  - Title2: blog/post2.md
-  - Title3: blog/post3.md
+  - blog/index.md
 - Contact: contact.md

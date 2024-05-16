@@ -15,8 +15,8 @@ hide:
 </h1>
 
 <font size=4>
-As a Software Developer, my goal is to apply scientific knowledge and technological advancements to create impactful solutions.<br>
-I am particularly interested in back-end development, with a focus on the medical, healthcare, and artificial intelligence sectors.
+As a Software Developer, my goal is to apply scientific knowledge and technological advancements to create impactful solutions that help people.<br>
+I am particularly interested in back-end development in the medical, healthcare, and artificial intelligence sectors.
 </font>
 
 <div style="clear: both;"></div>
