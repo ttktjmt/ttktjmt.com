@@ -110,13 +110,53 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
 ### **EvalAI**
 
-MyoChallenge uses [EvalAI](https://eval.ai){:target="_blank"} to manage the competition (e.g. model submission, ranking scores). You need to [create an account](https://eval.ai/auth/signup){:target="_blank"} and get credentials to submit your model.
+MyoChallenge uses [EvalAI](https://eval.ai){:target="_blank"} to manage the competition (e.g. model submission, ranking scores). You need to [create an account](https://eval.ai/auth/signup){:target="_blank"} and get credentials to submit your model. The step-by-step tutorial on how you can get credentials on EvalAI is explained [below](#material-upload-submit-your-solution).
 
 Before the Scored stage (Sep-Oct), you can refer to the [challenge page for MyoChallenge 2023](https://eval.ai/web/challenges/challenge-page/2105/overview){:target="_blank"} to understand how the challenge will be handled on this platform.
+
+### **Development Environment**
+
+
 
 ---
 
 ## :robot: **Develop Your Solution**
+
+This is where your skill comes into play! :fire:
+
+### **Start with Baseline**
+
+Before jumping into the development, you can run the pre-trained baselines MyoSuite provides to check how it performs. It can be also used as a starting point where your solution is based.
+
+You can visit the following official tutorials on Google Colab to learn:
+
+1. How to start a training script that can reproduce the baseline
+2. How to tune the reward dictionary
+3. How to access new attributes (e.g., MPL joint angles) and integrate them into your training
+
+??? quote "Refs"
+
+    <font size=3>
+
+    - :simple-googlecolab: Tutorial1 - Policy Training with Random Actions & Visualization [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqC1Y7NkRnb2R1MgjT3n4u02EmSPem88?usp=sharing){:target="_blank"}
+    - :simple-googlecolab: Tutorial2 - Getting Started with Baselines [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJqhKWKNJ6MFUKqTQYLilc9M6BdBfA3g?usp=sharing){:target="_blank"}
+
+    </font>
+
+Tutorials for MyoChallenge 2023 can also be your help.
+
+??? quote "Refs"
+
+    <font size=3>
+
+    - [:simple-github: GitHub - myochallenge_2023eval](https://github.com/MyoHub/myochallenge_2023eval/tree/main?tab=readme-ov-file#overview){:target="_blank"}
+    - [:simple-github: GitHub - myochallenge_2023eval/tutorials/run_the_baselines.md](https://github.com/MyoHub/myochallenge_2023eval/blob/main/tutorials/run_the_baselines.md){:target="_blank"}
+
+    </font>
+
+
+### **Improve your solution**
+
 
 ---
 
