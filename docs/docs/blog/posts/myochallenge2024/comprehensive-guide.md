@@ -27,13 +27,14 @@ Let’s get started!! :airplane:
 
 MyoSuite is the foundation of MyoChallenge. It's a platform with a collection of environments/tasks to be solved by musculoskeletal models to understand human dexterity and agility, developed by researchers at Meta AI. You can learn basic information about it from these places to get started:
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
     - [:material-web: MyoSuite Official Website](https://sites.google.com/view/myosuite){:target="_blank"}
     - [:simple-github: GitHub - myosuite](https://github.com/MyoHub/myosuite){:target="_blank"}
     - [:simple-readthedocs: Welcome to MyoSuite’s documentation!](https://myosuite.readthedocs.io/){:target="_blank"}
+    - [:simple-youtube: MyoSuite - overview & tutorial (ICRA 2024)](https://youtu.be/CGFrRXfVVHw){:target="_blank"}
 
     </font>
 
@@ -43,7 +44,7 @@ MyoSuite is basically a superset of [`gymnasium`](https://gymnasium.farama.org){
 
 If you're not familiar with the `gymnasium`, it is highly recommended to get familiar with it first.  
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
@@ -56,7 +57,7 @@ If you're not familiar with the `gymnasium`, it is highly recommended to get fam
 
 To get hands-on with MyoSuite, follow the tutorials provided in the official documentation. These tutorials cover various aspects of using MyoSuite, from setting up the environment to running simulations. Especially, it’s better to check the section [“Using Reinforcement Learning”](https://myosuite.readthedocs.io/en/latest/tutorials.html#using-reinforcement-learning){:target="_blank"} because that is essentially the same process you’ll follow to check you own policy.
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
@@ -94,7 +95,7 @@ Both tasks aim to develop strategies to enable both the biological limbs simulat
 
 For more detailed descriptions, refer to the official documentation of MyoChallenge 2024.
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
@@ -104,13 +105,22 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
     </font>
 
+### **Timeline**
+
+| Time           | Stage                | Detail                                         |
+|----------------|----------------------|------------------------------------------------|
+| Jul - Aug 2024 | Open Stage           | Release of the models and tasks environment.   |
+| Sep - Oct 2024 | Scored Stage         | Opening of submission on the scoring platform. |
+| Dec 10, 2024   | Results Announcement | @NeurIPS 24                                    |
+| Dec 14, 2024   | Workshop             | @NeurIPS 24                                    |
+
 ---
 
 ## :material-account-cog: **Prepare Accounts and Resources**
 
 ### **EvalAI**
 
-MyoChallenge uses [EvalAI](https://eval.ai){:target="_blank"} to manage the competition (e.g. model submission, ranking scores). You need to [create an account](https://eval.ai/auth/signup){:target="_blank"} and get credentials to submit your model. The step-by-step tutorial on how you can get credentials on EvalAI is explained [below](#material-upload-submit-your-solution).
+MyoChallenge uses [EvalAI](https://eval.ai){:target="_blank"} to manage the competition (e.g. model submission, ranking scores). You need to [create an account](https://eval.ai/auth/signup){:target="_blank"} and get credentials to submit your model. The step-by-step tutorial on how you can get credentials on EvalAI is explained [below](#submit-your-solution).
 
 Before the Scored stage (Sep-Oct), you can refer to the [challenge page for MyoChallenge 2023](https://eval.ai/web/challenges/challenge-page/2105/overview){:target="_blank"} to understand how the challenge will be handled on this platform.
 
@@ -134,7 +144,7 @@ You can visit the following official tutorials on Google Colab to learn:
 2. How to tune the reward dictionary
 3. How to access new attributes (e.g., MPL joint angles) and integrate them into your training
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
@@ -145,7 +155,7 @@ You can visit the following official tutorials on Google Colab to learn:
 
 Tutorials for MyoChallenge 2023 can also be your help.
 
-??? quote "Refs"
+!!! quote ""
 
     <font size=3>
 
