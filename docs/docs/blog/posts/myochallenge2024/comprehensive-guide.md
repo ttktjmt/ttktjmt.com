@@ -8,6 +8,10 @@ categories:
 
 # Comprehensive Guide to MyoChallenge 2024
 
+!!! info
+
+    This blog post is under construction. This will be deployed to the production environment (ttktjmt.com) after completion.
+
 This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
 
 The table of contents to the right explains all the stages you'll go through to participate in MyoChallenge 2024, starting from scratch. Feel free to skip any sections you're already familiar with.
@@ -71,7 +75,7 @@ To get hands-on with MyoSuite, follow the tutorials provided in the official doc
 
 MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc){:target="_blank"} conference, focusing on advancing physiological dexterity and agility in bionic humans.
 
-### **[Tasks](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}**
+### **Tasks**
 
 MyoChallenge 2024 has two types of tasks:
 
@@ -172,12 +176,52 @@ Tutorials for MyoChallenge 2023 can also be your help.
 
 ## :material-upload: **Submit Your Solution**
 
+After training your model, you can submit it by following the steps below. You can achieve this [via GitHub Actions](https://github.com/MyoHub/myochallenge_2023eval/blob/main/tutorials/GHaction_Submission.md){:target="_blank"} or [manually by building and uploading a Docker container](https://github.com/MyoHub/myochallenge_2023eval/blob/main/tutorials/DIY_Submission.md){:target="_blank"}. The EvalAI credential info is required for both options.
+
+=== "GitHub Actions"
+
+    1. Obtain your Auth token on EvalAI
+    2. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    3. Register your token as a secret in the repo
+    4. Edit the existing agent file to use your policy
+    5. Test your agent
+    6. Trigger the action
+
+=== "DIY Submission"
+
+    1. Install Docker
+    2. Obtain your Auth token on EvalAI
+    3. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    4. Customize Agent Script
+    5. Build a docker container with the agent
+    6. Upload the container to the [EvalAI docker registry](https://eval.ai/web/challenges/challenge-page/2105/submission){:target="_blank"}
+
+The Colab below also provides detailed step-by-step instructions for the entire submission process of MyoChallenge 2023.
+
+!!! quote ""
+
+    <font size=3>
+
+    - [:simple-github: GitHub - myochallenge_2023eval](https://github.com/MyoHub/myochallenge_2023eval){:target="_blank"}
+    - :simple-googlecolab: MyoChallenge Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
+
+    </font>
+
 ---
 
 ## :bulb: **Tips for Success**
 
 ### **Leverage Community Resources**
 
+
+!!! quote ""
+
+    <font size=3>
+
+    - [:simple-github: MyoChallenge/MyoSuite Q&A](https://github.com/MyoHub/myosuite/discussions/206){:target="_blank"}
+    - [:material-web: MyoSuite Advocacy Team](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"}
+
+    </font>
 
 ### **Collaborate and Learn**
 
