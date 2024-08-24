@@ -3,6 +3,20 @@
 
 ---
 
+<!-- ### **MyoChallenge 2024** <a href="https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024" target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"> :material-web: </a>
+
+description
+
+???+ skills
+
+    :material-arm-flex: MyoSuite ,
+    :simple-openaigym: Gym ,
+    :material-robot: Reinforcement Learning ,
+    :simple-python: Python ,
+    :simple-github: GitHub 
+
+--- -->
+
 ### **Portfolio Website (this site)** <a href="https://github.com/ttktjmt/ttktjmt.com" target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"> :simple-github: </a>
 
 Check out the [**About tab**](about/overview.md) for more details!!
