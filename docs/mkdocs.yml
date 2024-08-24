@@ -52,6 +52,7 @@ plugins:
   - search
   - blog:
       draft_on_serve: false
+      post_url_format: "{slug}"
 # Reference this site for installing additional dependencies:
 # https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
 #  - social:

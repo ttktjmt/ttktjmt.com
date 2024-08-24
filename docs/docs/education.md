@@ -58,7 +58,7 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 :trophy: &nbsp; **Awards** <br>
 
-Elected [Valedictorian at graduation](https://megurokai.jp/home2/2022megurokaisho/){:target="_blank"} and recieved the Meguro Association Award for the highest academic achievement amongst 686 students.
+Elected [Valedictorian at graduation](https://megurokai.jp/home2/2022megurokaisho/){:target="_blank"} and received the Meguro Association Award for the highest academic achievement amongst 686 students.
 
 :mag: &nbsp; **Research** <br>
 

@@ -8,10 +8,6 @@ categories:
 
 # Comprehensive Guide to MyoChallenge 2024
 
-!!! info
-
-    This blog post is under construction. This will be deployed to the production environment (ttktjmt.com) after completion.
-
 This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
 
 The table of contents to the right explains all the stages you'll go through to participate in MyoChallenge 2024, starting from scratch. Feel free to skip any sections you're already familiar with.
@@ -20,8 +16,7 @@ The table of contents to the right explains all the stages you'll go through to 
 
 Let’s get started!! :airplane:
 
-<!-- ![header](https://myosuite.readthedocs.io/en/latest/_images/MyoChallenge24_manip.png) -->
-
+<br>
 
 ---
 
@@ -29,7 +24,11 @@ Let’s get started!! :airplane:
 
 ![MyoSuite Logo](https://github.com/myohub/myosuite/blob/main/docs/source/images/Full%20Color%20Horizontal%20wider.png?raw=true){: style="width: 80%;"}
 
-MyoSuite is the foundation of MyoChallenge. It's a platform with a collection of environments/tasks to be solved by musculoskeletal models to understand human dexterity and agility, developed by researchers at Meta AI. You can learn basic information about it from these places to get started:
+MyoSuite is the foundation of MyoChallenge. It's a platform with a collection of environments/tasks to be solved by musculoskeletal models to understand human dexterity and agility. This is an open-source software (OSS) project, with contributions and participation from researchers, developers, and enthusiasts from across the globe.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1yiZ2BqEvCwSus4ToEQFQqE10Cj4GxkM&ehbc=2E312F" width=450rem height=280rem style="margin: 0 auto; display: block;"></iframe>
+
+You can learn basic information about it from these places to get started:
 
 !!! quote ""
 
@@ -66,6 +65,7 @@ To get hands-on with MyoSuite, follow the tutorials provided in the official doc
     <font size=3>
 
     - [:simple-readthedocs: Tutorials](https://myosuite.readthedocs.io/en/latest/tutorials.html){:target="_blank"}
+    - :simple-googlecolab: MyoSuite v2 Tutorial 1 (May 2024) [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zFuNLsrmx42vT4oV8RbnEWtkSJ1xajEo){:target="_blank"}
 
     </font>
 
@@ -73,7 +73,7 @@ To get hands-on with MyoSuite, follow the tutorials provided in the official doc
 
 ## :trophy: **Understand MyoChallenge 2024**
 
-MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc){:target="_blank"} conference, focusing on advancing physiological dexterity and agility in bionic humans.
+MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc){:target="_blank"}, focusing on advancing physiological dexterity and agility in bionic humans.
 
 ### **Tasks**
 
@@ -87,7 +87,7 @@ Transfer objects between two points, involving a hand-off between a biological a
 
 <br style="clear: left;">
 
-![Manipulation](https://myosuite.readthedocs.io/en/latest/_images/MyoChallenge24_loco_1.png){: style="width: 35%;", align=left}
+![Locomotion](https://myosuite.readthedocs.io/en/latest/_images/MyoChallenge24_loco_1.png){: style="width: 35%;", align=left}
 
 **Locomotion**
 
@@ -106,6 +106,7 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
     - [:mechanical_arm: MyoSuite - MyoChallenge-2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}
     - [:simple-readthedocs: MyoChallenge-2024 Documentations](https://myosuite.readthedocs.io/en/latest/challenge-doc.html){:target="_blank"}
     - [Competition Track 2024 - NeurIPS](https://neurips.cc/Conferences/2024/CompetitionTrack){:target="_blank"}
+    - [:simple-medium: Medium - MyoSuite Team](https://medium.com/@myosuite){:target="_blank"}
 
     </font>
 
@@ -128,9 +129,32 @@ MyoChallenge uses [EvalAI](https://eval.ai){:target="_blank"} to manage the comp
 
 Before the Scored stage (Sep-Oct), you can refer to the [challenge page for MyoChallenge 2023](https://eval.ai/web/challenges/challenge-page/2105/overview){:target="_blank"} to understand how the challenge will be handled on this platform.
 
+!!! quote ""
+
+    <font size=3>
+
+    - [:material-rocket: Sign up on EvalAI](https://eval.ai/auth/signup){:target="_blank"}
+    - [:material-rocket: EvalAI - MyoChallenge2023](https://eval.ai/web/challenges/challenge-page/2105/overview){:target="_blank"}
+
+    </font>
+
 ### **Development Environment**
 
+MyoSuite only requires a Python environment, but it would be advantageous to prepare a computer or cloud environment with GPU resources to accelerate the training process of the policy. A free GPU resource with limited usage is available on Google Colab.
 
+### **Form/Join a Team**
+
+Participating in MyoChallenge 2024 can be done individually or as part of a team. Consider the strategy of your participation based on your skills, resources, and goals.
+
+To form or join a team:
+
+1. Review the team formation rule:
+    
+    > **Team formation / Eligibility:** There is no limit to the team size and the affiliation: participants from both academic and industrial institutions are welcome. Each participant will be allowed to join only one team during registration and this cannot be changed during the competition. [[ref](https://github.com/MyoHub/myosuite/discussions/206#discussioncomment-10329857){:target="_blank"}]
+
+1. Network with potential teammates through the official MyoChallenge forums, MyoSuite community, social media, etc
+1. Agree on team structure, roles, and communication methods
+1. Register your team on EvalAI
 
 ---
 
@@ -140,13 +164,13 @@ This is where your skill comes into play! :fire:
 
 ### **Start with Baseline**
 
-Before jumping into the development, you can run the pre-trained baselines MyoSuite provides to check how it performs. It can be also used as a starting point where your solution is based.
+Before starting the development process, it is recommended to run the pre-trained baselines provided by MyoSuite to assess its performance. Additionally, this can be used as a foundation for your solution.
 
 You can visit the following official tutorials on Google Colab to learn:
 
-1. How to start a training script that can reproduce the baseline
-2. How to tune the reward dictionary
-3. How to access new attributes (e.g., MPL joint angles) and integrate them into your training
+- How to start a training script that can reproduce the baseline
+- How to tune the reward dictionary
+- How to access new attributes (e.g., MPL joint angles) and integrate them into your training
 
 !!! quote ""
 
@@ -169,8 +193,11 @@ Tutorials for MyoChallenge 2023 can also be your help.
     </font>
 
 
-### **Improve your solution**
+### **Enhance the Model**
 
+Once you've developed your initial model, the next step is to enhance it to improve performance on the tasks. This process may involve experimenting with different RL algorithms, fine-tuning hyperparameters, engineering new features, shaping the reward function, analyzing and visualizing the results, and etc. These techniques can help optimize your model's performance and provide insights into areas for further improvement.
+
+The development process is iterative. Continuously evaluate your model's performance, identify areas for improvement, and refine your approach. Regular evaluation is essential to understand how well your enhancements are working and whether further adjustments are needed.
 
 ---
 
@@ -181,20 +208,20 @@ After training your model, you can submit it by following the steps below. You c
 === "GitHub Actions"
 
     1. Obtain your Auth token on EvalAI
-    2. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
-    3. Register your token as a secret in the repo
-    4. Edit the existing agent file to use your policy
-    5. Test your agent
-    6. Trigger the action
+    1. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    1. Register your token as a secret in the repo
+    1. Edit the existing agent file to use your policy
+    1. Test your agent
+    1. Trigger the action
 
 === "DIY Submission"
 
     1. Install Docker
-    2. Obtain your Auth token on EvalAI
-    3. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
-    4. Customize Agent Script
-    5. Build a docker container with the agent
-    6. Upload the container to the [EvalAI docker registry](https://eval.ai/web/challenges/challenge-page/2105/submission){:target="_blank"}
+    1. Obtain your Auth token on EvalAI
+    1. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    1. Customize Agent Script
+    1. Build a docker container with the agent
+    1. Upload the container to the [EvalAI docker registry](https://eval.ai/web/challenges/challenge-page/2105/submission){:target="_blank"}
 
 The Colab below also provides detailed step-by-step instructions for the entire submission process of MyoChallenge 2023.
 
@@ -213,19 +240,47 @@ The Colab below also provides detailed step-by-step instructions for the entire 
 
 ### **Leverage Community Resources**
 
+MyoSuite has an active community of researchers and developers worldwide. Engage with the community to exchange ideas, seek advice, and stay updated on the latest developments. When you have any questions about MyoSuite/MyoChallenge, you can ask the community on both [GitHub Issues](https://github.com/MyoHub/myosuite/issues){:target="_blank"} and [GitHub Discussions](https://github.com/MyoHub/myosuite/discussions/206){:target="_blank"}. 
+
+Should you encounter any issues or bugs that have not yet been raised, please do not hesitate to submit them as an issue on the GitHub repository. This will help us resolve the problem quickly!
 
 !!! quote ""
 
     <font size=3>
 
+    - [:simple-github: GitHub Issues - myosuite](https://github.com/MyoHub/myosuite/issues){:target="_blank"}
     - [:simple-github: MyoChallenge/MyoSuite Q&A](https://github.com/MyoHub/myosuite/discussions/206){:target="_blank"}
     - [:material-web: MyoSuite Advocacy Team](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"}
 
     </font>
 
+You can join the MyoSuite community on our official Slack channel from here: [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/myosuite/shared_invite/zt-1zkpw2zzk-NhVhVlSDxhoMHbzROD8gMA){:target="_blank"}
+
 ### **Collaborate and Learn**
 
+Participate in webinars or Q&A sessions organized by the MyoChallenge team to deepen your understanding. Connecting with others and forming a team can also enhance your experience and foster collaboration.
 
 ### **Stay Updated**
 
+Please check the [MyoChallenge 2024 website](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} regularly for announcements and updates. We also encourage you to follow Myosuite on social media for the latest updates and tips. Staying informed will ensure you don't miss any important notifications.
 
+!!! quote ""
+
+    <font size=3>
+
+    - Follow us on X [![X Follow](https://img.shields.io/twitter/follow/MyoSuite?style=social)](https://x.com/MyoSuite){:target="_blank"}
+    - Star the MyoSuite repository on GitHub [![GitHub stars](https://img.shields.io/github/stars/MyoHub/myosuite?style=social)](https://github.com/MyoHub/myosuite){:target="_blank"}
+
+    </font>
+
+<br>
+
+---
+
+<br>
+
+MyoChallenge 2024 is your opportunity to learn and innovate. We encourage you to leverage the resources provided, engage with the community, and enjoy the learning process. Your unique perspective is valuable, and we're excited to see what you'll achieve!
+
+Best of luck in your MyoChallenge journey :rocket:
+
+<br>
