@@ -40,7 +40,10 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
     :simple-latex:          LaTeX ,
     :simple-sourcetree:     SourceTree ,
     :simple-bitbucket:      Bitbucket ,
-    :simple-googlecolab:    Google Colab
+    :simple-googlecolab:    Google Colab ,
+    :material-brain:        Neural Network ,
+    :material-robot:        Machine Learning ,
+    :material-chart-line:   Biosignal Processing
 
 <br><br>
 
@@ -67,15 +70,18 @@ I developed and proposed a novel approach to myoelectric prosthetic hand trainin
 
 ???+ skills
 
-    :simple-c:                     C ,
-    :simple-cplusplus:             C++ ,
-    :simple-python:                Python ,
-    :material-math-integral-box:   MATLAB ,
-    :simple-qt:                    Qt ,
-    :simple-linux:                 Linux ,
-    :simple-latex:                 LaTeX ,
-    :simple-sourcetree:            SourceTree ,
-    :simple-bitbucket:             Bitbucket ,
-    :simple-googlecolab:           Google Colab
+    :simple-c:                      C ,
+    :simple-cplusplus:              C++ ,
+    :simple-python:                 Python ,
+    :material-math-integral-box:    MATLAB ,
+    :simple-qt:                     Qt ,
+    :simple-linux:                  Linux ,
+    :simple-latex:                  LaTeX ,
+    :simple-sourcetree:             SourceTree ,
+    :simple-bitbucket:              Bitbucket ,
+    :simple-googlecolab:            Google Colab ,
+    :material-brain:                Neural Network ,
+    :material-robot:                Machine Learning ,
+    :material-chart-line:           Biosignal Processing
 
 <br><br>
