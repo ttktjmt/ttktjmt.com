@@ -8,21 +8,20 @@ hide:
 ---
 
 <!-- TODO: format this for mobile devices -->
-<img src="https://avatars.githubusercontent.com/u/55564973" alt="Profile picture" width="22%" style="float: left; margin: 0% 10% 1% 10%; border-radius: 50%"/>
+![Profile picture](https://avatars.githubusercontent.com/u/55564973){: style="float: left; margin: 0% 10% 1% 10%; border-radius: 50%; width: 22%;" }
 
-<h1 style="margin: 4.5% 0.5% 3% 0.5%; font-weight: bold;">
-  Hi 👋 I am Tatsuki Tsujimoto
-</h1>
+# Hi 👋 I am Tatsuki Tsujimoto {:style="margin: 4.5% 0.5% 3% 0.5%; font-weight: bold;"}
 
 <font size=4>
 As a Software Developer, my goal is to apply scientific knowledge and technological advancements to create impactful solutions that help people.<br>
 I am particularly interested in back-end development in the medical, healthcare, and artificial intelligence sectors.
 </font>
 
-<div style="clear: both;"></div>
+<br style="clear: both;">
 
 ---
-**Portfolio Website**: [https://ttktjmt.com](https://ttktjmt.com){:target="_blank"}<br>
+**Portfolio Website [Main]**: [https://ttktjmt.com](https://ttktjmt.com){:target="_blank"}<br>
+**Portfolio Website [Test]**: [https://ttktjmt.github.io/ttktjmt.com](https://ttktjmt.github.io/ttktjmt.com){:target="_blank"}<br>
 **Source Code**: [https://github.com/ttktjmt/ttktjmt.com](https://github.com/ttktjmt/ttktjmt.com){:target="_blank"}
 ---
 
