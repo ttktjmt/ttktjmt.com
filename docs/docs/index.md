@@ -13,7 +13,7 @@ hide:
 
 <font size=4>
 As a researcher and software developer, my objective is to leverage scientific knowledge and technological advancements to develop impactful solutions that help people.<br>
-I am particularly interested in back-end development in the medical, healthcare, and artificial intelligence sectors.
+I'm particularly passionate about back-end development in the biomedical, healthcare, wearable, robotics, and artificial intelligence fields.
 </font>
 
 <br style="clear: both;">

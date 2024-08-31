@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-08-20
+date: 2024-08-24
 categories:
     - Dev
     - MyoSuite
@@ -10,9 +10,9 @@ categories:
 
 This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
 
-The table of contents to the right explains all the stages you'll go through to participate in MyoChallenge 2024, starting from scratch. Feel free to skip any sections you're already familiar with.
-
 <!-- more -->
+
+The table of contents to the right explains all the stages you'll go through to participate in MyoChallenge 2024, starting from scratch. Feel free to skip any sections you're already familiar with.
 
 Let’s get started!! :airplane:
 

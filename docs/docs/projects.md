@@ -5,7 +5,14 @@
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:target="_blank" rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
+<!-- 
 description
+
+- I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md){:target="_blank"} explaining an overall procedure of joining the competition
+- The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and promoted by the official account on SNS.
+    - Linkedin Post
+    - X
+ -->
 
 ???+ skills
 
