@@ -29,6 +29,11 @@ The deployment of MkDocs to GitHub Pages is automated through the `gh-pages.yml`
 graph TB
     A[Publish Release] -->|Triggers| B
     A -->|Version Tag| I
+    
+    subgraph S[GitHub Secrets]
+        S1[Docker Hub Username]
+        S2[Docker Hub Password]
+    end
 
     subgraph B[GitHub Actions: docker.yml]
         direction LR
@@ -36,10 +41,6 @@ graph TB
         S --> D
         D --> I[Build and Push Docker Image]
 
-        subgraph S[GitHub Secrets]
-            S1[Docker Hub Username]
-            S2[Docker Hub Password]
-        end
     end
 
     subgraph E[Docker Hub]
