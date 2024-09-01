@@ -9,12 +9,11 @@ This project leverages GitHub Actions to automate the deployment to GitHub Pages
 graph TB
     A[Push to dev/main branch] -->|Triggers| B
 
-    subgraph B[GitHub Actions `gh-pages.yml`]
+    subgraph B[GitHub Actions: gh-pages.yml]
         direction LR
-        C[Prepare Build Environment] --> D[Build Documentation]
+        C[Prepare Build<br>Environment] --> D[Build Documentation]
+        D --> F[Update GitHub Pages<br>ttktjmt.github.io/ttktjmt.com]
     end
-
-    D -->|Updates| F[GitHub Pages<br>ttktjmt.github.io/ttktjmt.com]
 ```
 
 The deployment of MkDocs to GitHub Pages is automated through the `gh-pages.yml` workflow, which is triggered by `push` events to the `dev` and `main` branches. This ensures that any changes aimed at testing design, functionality, and more are automatically reflected on the live documentation site. [The documentation on GitHub Pages](https://ttktjmt.github.io/ttktjmt.com/){:target="_blank"} will be updated whenever commits are made, even if it's still under development. It utilizes the `mkdocs gh-deploy` command for immediate publication.
@@ -31,7 +30,7 @@ graph TB
     A[Publish Release] -->|Triggers| B
     A -->|Version Tag| I
 
-    subgraph B[GitHub Actions `docker.yml`]
+    subgraph B[GitHub Actions: docker.yml]
         direction LR
         C[Prepare Build Environment] --> D[Login to Docker Hub]
         S --> D
