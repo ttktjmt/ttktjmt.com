@@ -5,22 +5,22 @@
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
-<!-- 
-description
-
-- I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md){:target="_blank"} explaining an overall procedure of joining the competition
-- The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and promoted by the official account on SNS.
+As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the MyoChallenge Advocacy Team, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md){:target="_blank"} explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition.
+<!-- - The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and promoted by the official account on SNS.
     - Linkedin Post
-    - X
- -->
+    - X -->
+
 
 ???+ skills
 
     [:material-arm-flex: MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
     :simple-openaigym: Gym ,
-    :material-robot: Reinforcement Learning ,
+    :material-shape: MuJoCo ,
+    :simple-pytorch: PyTorch ,
+    :simple-docker: Docker ,
     :simple-python: Python ,
-    :simple-github: GitHub 
+    :simple-github: GitHub ,
+    :material-robot: Reinforcement Learning
 
 ---
 
@@ -30,10 +30,14 @@ Check out the [**About tab**](about/overview.md) for more details!!
 
 ???+ skills
 
+    :simple-materialformkdocs: Material for Mkdocs ,
     :simple-kubernetes: Kubernetes ,
     :simple-k3s: k3s ,
+    :simple-docker: Docker ,
     :simple-python: Python ,
     :simple-github: GitHub ,
+    :simple-githubactions: GitHub Actions ,
+    :simple-cloudflare: Cloudflare ,
     :simple-raspberrypi: Raspberry Pi
 
 ---
@@ -47,7 +51,7 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
     :simple-cplusplus: C++ ,
     :simple-qt: Qt ,
-    :material-shape: Physics Engine (Box2D) ,
+    :material-shape: Box2D (Physics Engine) ,
     :simple-github: GitHub
 
 ---
