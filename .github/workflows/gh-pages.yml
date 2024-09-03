@@ -1,4 +1,4 @@
-name: Deploy new mkdocs to GitHub Pages
+name: GitHub Pages Update
 on:
   push:
     branches:
