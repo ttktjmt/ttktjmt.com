@@ -1,9 +1,14 @@
 ---
+title: Comprehensive Guide to MyoChallenge 2024
+description: Your complete roadmap for conquering MyoChallenge 2024 from start to finish.
 draft: false
 date: 2024-08-24
 categories:
     - Dev
     - MyoSuite
+social:
+  cards_layout_options:
+    logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg # this doesn't change the logo in a social card somehow
 ---
 
 # Comprehensive Guide to MyoChallenge 2024

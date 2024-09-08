@@ -53,11 +53,7 @@ plugins:
   - blog:
       draft_on_serve: false
       post_url_format: "{slug}"
-# Reference this site for installing additional dependencies:
-# https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
-#  - social:
-#      cards_layout_options:
-#        title: Tatsuki's Portfolio
+  - social: # dependencies issue: https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#cairo-graphics-macos
 
 # Additional configuration
 extra:
