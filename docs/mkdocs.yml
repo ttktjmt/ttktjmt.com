@@ -54,6 +54,8 @@ plugins:
       draft_on_serve: false
       post_url_format: "{slug}"
   - social: # dependencies issue: https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#cairo-graphics-macos
+  # the `mkdocs gh-deploy` command used in the "GitHub Pages Update" workflow sets the metadata of social card image with the property="og:image" to the "ttktjmt.com" URL, not the "ttktjmt.github.io/tktjmt.com" URL even when I deploy this on the GitHub Pages.
+  # So, the social card only works when this site is deployed under the "ttktjmt.com" URL.
 
 # Additional configuration
 extra:

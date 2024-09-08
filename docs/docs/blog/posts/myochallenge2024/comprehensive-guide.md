@@ -8,7 +8,7 @@ categories:
     - MyoSuite
 social:
   cards_layout_options:
-    logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg # this doesn't change the logo in a social card somehow
+    logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg
 ---
 
 # Comprehensive Guide to MyoChallenge 2024
