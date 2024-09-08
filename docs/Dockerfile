@@ -8,6 +8,9 @@ ENV PACKAGES="/usr/local/lib/python3.11/site-packages"
 
 WORKDIR /app
 
+RUN apk add --no-cache libcairo-dev freetype-dev libffi-dev libjpeg-turbo-dev libpng-dev zlib-dev \
+    && apk add --no-cache pngquant
+
 COPY . /app
 
 RUN pip install --no-cache-dir --upgrade pip
