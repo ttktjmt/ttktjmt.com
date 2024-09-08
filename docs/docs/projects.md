@@ -5,7 +5,7 @@
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
-As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the MyoChallenge Advocacy Team, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md){:target="_blank"} explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition.
+As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the MyoChallenge Advocacy Team, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md) explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition.
 <!-- - The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and promoted by the official account on SNS.
     - Linkedin Post
     - X -->
