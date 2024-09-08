@@ -8,7 +8,7 @@ ENV PACKAGES="/usr/local/lib/python3.11/site-packages"
 
 WORKDIR /app
 
-RUN apk add --no-cache libcairo-dev freetype-dev libffi-dev libjpeg-turbo-dev libpng-dev zlib-dev \
+RUN apk add --no-cache cairo-dev freetype-dev libffi-dev libjpeg-turbo-dev libpng-dev zlib-dev \
     && apk add --no-cache pngquant
 
 COPY . /app
