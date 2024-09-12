@@ -2,7 +2,9 @@
 title: Comprehensive Guide to MyoChallenge 2024
 description: Your complete roadmap for conquering MyoChallenge 2024 from start to finish.
 draft: false
-date: 2024-08-24
+date:
+    created: 2024-08-20
+    updated: 2024-09-12
 categories:
     - Dev
     - MyoSuite
@@ -147,6 +149,16 @@ Before the Scored stage (Sep-Oct), you can refer to the [challenge page for MyoC
 
 MyoSuite only requires a Python environment, but it would be advantageous to prepare a computer or cloud environment with GPU resources to accelerate the training process of the policy. A free GPU resource with limited usage is available on Google Colab.
 
+!!! success "Google Cloud Credits Available!"
+
+    <font size=3>
+
+    We are pleased to announce that Google Cloud Platform is sponsoring MyoChallenge '24! Participants are now eligible to receive Google Cloud credits, providing access to advanced computational resources on Google Colaboratory.
+
+    - [:simple-googleforms: Apply for Google Cloud Credits](https://docs.google.com/forms/d/e/1FAIpQLSez1Qp8Tvj65hYJOKbLL8hbIoG9igXc9zHfB4im586TaTJeLw/viewform){:target="_blank"}
+    </font>
+
+
 ### **Form/Join a Team**
 
 Participating in MyoChallenge 2024 can be done individually or as part of a team. Consider the strategy of your participation based on your skills, resources, and goals.
@@ -274,7 +286,7 @@ Please check the [MyoChallenge 2024 website](https://sites.google.com/view/myosu
     <font size=3>
 
     - Follow us on X [![X Follow](https://img.shields.io/twitter/follow/MyoSuite?style=social)](https://x.com/MyoSuite){:target="_blank"}
-    - Star the MyoSuite repository on GitHub [![GitHub stars](https://img.shields.io/github/stars/MyoHub/myosuite?style=social)](https://github.com/MyoHub/myosuite){:target="_blank"}
+    - Give a Star [![GitHub stars](https://img.shields.io/github/stars/MyoHub/myosuite?style=social)](https://github.com/MyoHub/myosuite){:target="_blank"}
 
     </font>
 
