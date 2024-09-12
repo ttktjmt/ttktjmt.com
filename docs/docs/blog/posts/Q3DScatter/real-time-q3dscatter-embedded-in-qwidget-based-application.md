@@ -14,7 +14,8 @@ This article is to summarize my recent research on how to use the Scatter3D QML 
 
 ![final result](https://raw.githubusercontent.com/ttktjmt/scatter3d-in-qwidget/main/res/result.gif)
 
-The reason why I use the Scatter3D QML over the Q3DScatter class while Q3DScatter has better integration with the QWidget application is that the Scatter3D supports features like legends out-of-the-box, which are more difficult to implement with Q3DScatter, as described in this forum entry.
+The reason why I use the Scatter3D QML over the Q3DScatter class while Q3DScatter has better integration with the QWidget application is that the Scatter3D supports features like legends out-of-the-box, which are more difficult to implement with Q3DScatter, as described in this forum entry.<br>
+[Qt Forum - Copying C++ Object Data to QML Object (Example: Q3DScatter to Scatter3D)](https://forum.qt.io/topic/133450/copying-c-object-data-to-qml-object-example-q3dscatter-to-scatter3d){:target="_blank"}
 
 I created a GitHub repository for this demo named scatter3d-in-qwidget, so you can check all of the source code from there.<br>
 [GitHub - ttktjmt/scatter3d-in-qwidget](https://github.com/ttktjmt/scatter3d-in-qwidget){:target="_blank"}
