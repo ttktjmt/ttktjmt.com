@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-09-12
+    updated: 2024-09-14
 categories:
     - Dev
     - MyoSuite
@@ -277,6 +277,15 @@ You can join the MyoSuite community on our official Slack channel from here: [![
 
 Participate in webinars or Q&A sessions organized by the MyoChallenge team to deepen your understanding. Connecting with others and forming a team can also enhance your experience and foster collaboration.
 
+!!! quote ""
+
+    <font size=3>
+
+    - [:material-microsoft-sharepoint: MyoSuite Talk @JHU (51 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EctqFItsNrZBou_VG1AC8qMBbkEGuQ-cBLdYoNL4cVoUpg){:target="_blank"}
+    - [:material-microsoft-sharepoint: MyoChallenge '24 Talk @JHU (7 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EXOT_87KFxdJoMeQSrT8UUYB3i7theJAYb965qonV3GOVQ){:target="_blank"}
+
+    </font>
+
 ### **Stay Updated**
 
 Please check the [MyoChallenge 2024 website](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} regularly for announcements and updates. We also encourage you to follow Myosuite on social media for the latest updates and tips. Staying informed will ensure you don't miss any important notifications.
@@ -286,7 +295,7 @@ Please check the [MyoChallenge 2024 website](https://sites.google.com/view/myosu
     <font size=3>
 
     - Follow us on X [![X Follow](https://img.shields.io/twitter/follow/MyoSuite?style=social)](https://x.com/MyoSuite){:target="_blank"}
-    - Give a Star [![GitHub stars](https://img.shields.io/github/stars/MyoHub/myosuite?style=social)](https://github.com/MyoHub/myosuite){:target="_blank"}
+    - Give a Star on GitHub [![GitHub stars](https://img.shields.io/github/stars/MyoHub/myosuite?style=social)](https://github.com/MyoHub/myosuite){:target="_blank"}
 
     </font>
 
