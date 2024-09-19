@@ -13,7 +13,7 @@ hide:
 
 <font size=4>
 As a researcher and software developer, my objective is to leverage scientific knowledge and technological advancements to develop impactful solutions that help people.<br>
-I'm particularly passionate about back-end development in the neuroprosthetics, biomedical engineering, healthcare, wearable, robotics, and artificial intelligence fields.
+I'm particularly passionate about software development in the neuroscience, biomedical engineering, healthcare, wearable, and artificial intelligence fields.
 </font>
 
 <br style="clear: both;">

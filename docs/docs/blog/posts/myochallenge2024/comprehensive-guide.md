@@ -13,8 +13,6 @@ social:
     logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg
 ---
 
-# Comprehensive Guide to MyoChallenge 2024
-
 This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
 
 <!-- more -->
@@ -141,7 +139,8 @@ Before the Scored stage (Sep-Oct), you can refer to the [challenge page for MyoC
     <font size=3>
 
     - [:material-rocket: Sign up on EvalAI](https://eval.ai/auth/signup){:target="_blank"}
-    - [:material-rocket: EvalAI - MyoChallenge2023](https://eval.ai/web/challenges/challenge-page/2105/overview){:target="_blank"}
+    - [:material-rocket: EvalAI - MyoChallenge2024](https://eval.ai/web/challenges/challenge-page/2373){:target="_blank"}
+    - [:material-rocket: EvalAI - MyoChallenge2023](https://eval.ai/web/challenges/challenge-page/2105){:target="_blank"}
 
     </font>
 
@@ -195,6 +194,7 @@ You can visit the following official tutorials on Google Colab to learn:
 
     - :simple-googlecolab: Tutorial1 - Policy Training with Random Actions & Visualization [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqC1Y7NkRnb2R1MgjT3n4u02EmSPem88?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial2 - Getting Started with Baselines [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJqhKWKNJ6MFUKqTQYLilc9M6BdBfA3g?usp=sharing){:target="_blank"}
+    - [:simple-github: GitHub - myochallenge_2024eval/tutorials/run_the_baselines.md](https://github.com/MyoHub/myochallenge_2024eval/blob/main/tutorials/run_the_baselines.md){:target="_blank"}
 
     </font>
 
@@ -225,7 +225,7 @@ After training your model, you can submit it by following the steps below. You c
 === "GitHub Actions"
 
     1. Obtain your Auth token on EvalAI
-    1. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    1. Clone the MyoChallenge submission repository: [myochallenge_2024eval](https://github.com/MyoHub/myochallenge_2024eval){:target="_blank"}
     1. Register your token as a secret in the repo
     1. Edit the existing agent file to use your policy
     1. Test your agent
@@ -235,7 +235,7 @@ After training your model, you can submit it by following the steps below. You c
 
     1. Install Docker
     1. Obtain your Auth token on EvalAI
-    1. Clone the MyoChallenge submission repository: myochallenge_2024eval (TBA)
+    1. Clone the MyoChallenge submission repository: [myochallenge_2024eval](https://github.com/MyoHub/myochallenge_2024eval){:target="_blank"}
     1. Customize Agent Script
     1. Build a docker container with the agent
     1. Upload the container to the [EvalAI docker registry](https://eval.ai/web/challenges/challenge-page/2105/submission){:target="_blank"}
@@ -246,6 +246,7 @@ The Colab below also provides detailed step-by-step instructions for the entire 
 
     <font size=3>
 
+    - [:simple-github: GitHub - myochallenge_2024eval](https://github.com/MyoHub/myochallenge_2024eval){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2023eval](https://github.com/MyoHub/myochallenge_2023eval){:target="_blank"}
     - :simple-googlecolab: MyoChallenge Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
 
