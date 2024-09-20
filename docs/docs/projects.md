@@ -7,9 +7,7 @@ hide:
 
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true" alt="MyoChallenge 2024" width="300rem"/>
-</div>
+![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
@@ -27,7 +25,12 @@ The blog was cited on the official [MyoChallenge Advocacy Website](https://sites
     :simple-github: GitHub ,
     :material-robot: Reinforcement Learning
 
+<div style="clear: left;"/>
+
 ---
+
+![Architecture](/graph/arch-light.png#only-light){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Architecture](/graph/arch-dark.png#only-dark){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **Portfolio Website (this site)** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
@@ -45,7 +48,11 @@ Check out the [**About tab**](about/overview.md) for more details!!
     :simple-cloudflare: Cloudflare ,
     :simple-raspberrypi: Raspberry Pi
 
+<div style="clear: left;"/>
+
 ---
+
+![Galton Board App](https://github.com/ttktjmt/galtonboard-qt/blob/main/res/galton-board-sim-cropped.gif?raw=true){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **Galton Board Simulator** [:simple-github:](https://github.com/ttktjmt/galtonboard-qt){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
@@ -59,6 +66,8 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
     :material-shape: Box2D (Physics Engine) ,
     :simple-github: GitHub
 
+<div style="clear: left;"/>
+
 ---
 
 ### **Company Website** [:material-web:](https://mu-borg.com){:target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 1rem;"}
@@ -70,6 +79,8 @@ I developed and published a website for the company that was launched from the u
     :simple-notion: Notion ,
     :simple-cloudflare: Cloudflare
 
+<div style="clear: left;"/>
+
 ---
 <!-- ### **Sleep Quality Measurement App** <a href="" :target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
 
@@ -79,8 +90,12 @@ coming soon...
 
     :material-math-integral-box: MATLAB
 
+<div style="clear: left;"/>
+
 ---
 -->
+
+![Voice Controlled Robot Hand](https://img.youtube.com/vi/zjVYmhg9dLg/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **Voice Controlled Robot Hand** [:simple-youtube:](https://youtu.be/zjVYmhg9dLg){:target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 1rem;"}
 
@@ -92,7 +107,13 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
     :simple-python: Python ,
     :simple-raspberrypi: Raspberry Pi
 
+<div style="clear: left;"/>
+
 ---
+
+![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+
+<!-- <iframe width="330rem" height="315rem" src="https://www.youtube.com/embed/zjVYmhg9dLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: left; margin-right: 20px; margin-bottom: 20px;"></iframe> -->
 
 ### **TETRIS on Arduino Game Console** [:simple-youtube:](https://youtu.be/Kmq4INAJUeA){:target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 1rem;"} [:simple-googledrive:](https://drive.google.com/drive/folders/1XIpsRjvyxm8ZJICFTqMlnAM3WdH2CrXw?usp=drive_link){:target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"}
 
@@ -103,3 +124,9 @@ I created a classic game console using an [Arduino Nano](https://store.arduino.c
     :simple-arduino: Arduino ,
     :material-soldering-iron: Soldering ,
     :material-gamepad-variant: Game Dev
+
+<div style="clear: left;"/>
+
+---
+
+<br><br>
