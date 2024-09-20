@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-09-14
+    updated: 2024-09-20
 categories:
     - Dev
     - MyoSuite
