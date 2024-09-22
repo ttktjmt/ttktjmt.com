@@ -34,7 +34,7 @@ The blog was cited on the official [MyoChallenge Advocacy Website](https://sites
 
 ### **Portfolio Website (this site)** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
-Check out the [**About tab**](about/overview.md) for more details!!
+Check out the [**About tab**](about/overview.md) for detailed information.
 
 ???+ skills
 
@@ -43,6 +43,9 @@ Check out the [**About tab**](about/overview.md) for more details!!
     :simple-k3s: k3s ,
     :simple-docker: Docker ,
     :simple-python: Python ,
+    :simple-html5: HTML ,
+    :simple-css3: CSS ,
+    :simple-javascript: JavaScript ,
     :simple-github: GitHub ,
     :simple-githubactions: GitHub Actions ,
     :simple-cloudflare: Cloudflare ,
@@ -57,7 +60,7 @@ Check out the [**About tab**](about/overview.md) for more details!!
 ### **Galton Board Simulator** [:simple-github:](https://github.com/ttktjmt/galtonboard-qt){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 The [Galton Board](https://en.wikipedia.org/wiki/Galton_board){:target="_blank"}, also known as the Galton box, quincunx or bean machine, is a device that visually demonstrates the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"} by dropping balls through a pegged board, resulting in a normal distribution.<br>
-I developed a 2D simulator as an Android app using [box2d](https://github.com/erincatto/box2d){:target="_blank"} as a physics engine. It uses the accelerometer sensor in the phone to change the gravity in the application, resulting in a different distribution.
+I developed a 2D simulator as an Android app using [box2d](https://github.com/erincatto/box2d){:target="_blank"} as a physics engine. It uses the accelerometer sensor in the device (phone, laptop) to change the gravity in the simulation, resulting in a different distribution.
 
 ???+ skills
 
@@ -68,7 +71,7 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
 <div style="clear: left;"/>
 
----
+<!-- ---
 
 ### **Company Website** [:material-web:](https://mu-borg.com){:target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 1rem;"}
 
@@ -79,10 +82,10 @@ I developed and published a website for the company that was launched from the u
     :simple-notion: Notion ,
     :simple-cloudflare: Cloudflare
 
-<div style="clear: left;"/>
+<div style="clear: left;"/> -->
 
----
-<!-- ### **Sleep Quality Measurement App** <a href="" :target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
+<!-- ---
+### **Sleep Quality Measurement App** <a href="" :target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
 
 coming soon...
 
@@ -90,10 +93,10 @@ coming soon...
 
     :material-math-integral-box: MATLAB
 
-<div style="clear: left;"/>
+<div style="clear: left;"/> -->
 
 ---
--->
+
 
 ![Voice Controlled Robot Hand](https://img.youtube.com/vi/zjVYmhg9dLg/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
