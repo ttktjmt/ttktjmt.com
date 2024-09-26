@@ -29,8 +29,8 @@ The blog was cited on the official [MyoChallenge Advocacy Website](https://sites
 
 ---
 
-![Architecture](/graph/arch-light.png#only-light){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
-![Architecture](/graph/arch-dark.png#only-dark){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Architecture](graph/arch-light.png#only-light){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Architecture](graph/arch-dark.png#only-dark){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **Portfolio Website (this site)** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
@@ -114,7 +114,7 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 ---
 
-![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem; height: 12rem;"}
 
 <!-- <iframe width="330rem" height="315rem" src="https://www.youtube.com/embed/zjVYmhg9dLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: left; margin-right: 20px; margin-bottom: 20px;"></iframe> -->
 
