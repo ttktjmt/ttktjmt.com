@@ -28,6 +28,7 @@ theme:
   - navigation.indexes
   - navigation.path
   - navigation.tabs
+  - navigation.top
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
