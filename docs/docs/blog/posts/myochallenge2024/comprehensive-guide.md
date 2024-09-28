@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-09-20
+    updated: 2024-09-28
 categories:
     - Dev
     - MyoSuite
@@ -108,9 +108,10 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
     <font size=3>
 
-    - [:mechanical_arm: MyoSuite - MyoChallenge-2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}
+    - [:material-arm-flex: MyoSuite - MyoChallenge-2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}
     - [:simple-readthedocs: MyoChallenge-2024 Documentations](https://myosuite.readthedocs.io/en/latest/challenge-doc.html){:target="_blank"}
-    - [Competition Track 2024 - NeurIPS](https://neurips.cc/Conferences/2024/CompetitionTrack){:target="_blank"}
+    - [:fontawesome-solid-brain: NeurIPS - Competition Track 2024](https://neurips.cc/Conferences/2024/CompetitionTrack){:target="_blank"}
+    - [:material-presentation-play: MyoSimposium 2023](https://neurips.cc/virtual/2023/competition/66584){:target="_blank"}
     - [:simple-medium: Medium - MyoSuite Team](https://medium.com/@myosuite){:target="_blank"}
 
     </font>
@@ -216,6 +217,17 @@ Tutorials for MyoChallenge 2023 can also be your help.
 Once you've developed your initial model, the next step is to enhance it to improve performance on the tasks. This process may involve experimenting with different RL algorithms, fine-tuning hyperparameters, engineering new features, shaping the reward function, analyzing and visualizing the results, and etc. These techniques can help optimize your model's performance and provide insights into areas for further improvement.
 
 The development process is iterative. Continuously evaluate your model's performance, identify areas for improvement, and refine your approach. Regular evaluation is essential to understand how well your enhancements are working and whether further adjustments are needed.
+
+You may want to take a look at the strategies of previous MyoChallenge winning teams.
+
+!!! quote ""
+
+    <font size=3>
+
+    - [:material-presentation-play: MyoSymposium 2023 - MyoChallenge '23 Winners' Presentation](https://neurips.cc/virtual/2023/83948){:target="_blank"}
+    - [:simple-github: GitHub - myochallenge-lattice](https://github.com/amathislab/myochallenge-lattice){:target="_blank"}
+
+    </font>
 
 ---
 
