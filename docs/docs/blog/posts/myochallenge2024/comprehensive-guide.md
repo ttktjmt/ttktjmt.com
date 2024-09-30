@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-09-28
+    updated: 2024-10-01
 categories:
     - Dev
     - MyoSuite
@@ -291,21 +291,12 @@ You can join the MyoSuite community on our official Slack channel from here: [![
 
 Participate in webinars or Q&A sessions organized by the MyoChallenge team to deepen your understanding. Connecting with others and forming a team can also enhance your experience and foster collaboration.
 
-!!! success "Join Our Online Workshop!"
-
-    <font size=3>
-
-    We will have an online workshop and Q&A session on **_September 30th, 2024, at 10:00 AM EST_** to address any questions you may have about the challenge! Please register your attendance and submit your questions in advance using the Google Form below. If you're unable to attend, you can still submit your questions, which will be addressed during the workshop.
-
-    - [:simple-googleforms: MyoChallenge '24 Workshop and Q&A Registration](https://forms.gle/tLHJqsNGWpJ9sNCx6){:target="_blank"}
-
-    </font>
-
-<!-- - [:octicons-discussion-closed-16: MyoChallenge '24 Workshop & Q&A on Sep 30th, 2024 at 10:00 AM EST](https://forms.gle/tLHJqsNGWpJ9sNCx6){:target="_blank"} -->
 !!! quote ""
 
     <font size=3>
 
+    - [:material-arm-flex: MyoSeminar - List of Upcoming/Past Events](https://myoseminar.github.io){:target="_blank"}
+    - :octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording (TBA)
     - [:material-microsoft-sharepoint: MyoSuite Talk @JHU (51 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EctqFItsNrZBou_VG1AC8qMBbkEGuQ-cBLdYoNL4cVoUpg){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoChallenge '24 Talk @JHU (7 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EXOT_87KFxdJoMeQSrT8UUYB3i7theJAYb965qonV3GOVQ){:target="_blank"}
 
