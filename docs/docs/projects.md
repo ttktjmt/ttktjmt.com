@@ -11,8 +11,9 @@ hide:
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
-As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the MyoChallenge Advocacy Team, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md) explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition.<br>
-The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and featured by the official account on SNS ([Linkedin](https://www.linkedin.com/posts/vittorio-caggiano-26b6a7b_myochallenge-neurips-myosuite-activity-7238908256369205248-IiFi){:target="_blank"}, [X](https://twitter.com/MyoSuite/status/1833159649840783719){:target="_blank"})
+As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the MyoChallenge Advocacy Team, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md) explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition. The blog was cited on the official [MyoChallenge Advocacy Website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and featured by the official account on SNS ([Linkedin](https://www.linkedin.com/posts/vittorio-caggiano-26b6a7b_myochallenge-neurips-myosuite-activity-7238908256369205248-IiFi){:target="_blank"}, [X](https://twitter.com/MyoSuite/status/1833159649840783719){:target="_blank"})
+
+<!-- TODO: Mention a blog post explaining my journey and strategy after writing it -->
 
 ???+ skills
 
@@ -87,7 +88,7 @@ I developed and published a website for the company that was launched from the u
 <!-- ---
 ### **Sleep Quality Measurement App** <a href="" :target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
 
-coming soon...
+explanation
 
 ???+ skills
 

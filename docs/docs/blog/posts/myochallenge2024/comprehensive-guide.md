@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-09-20
+    updated: 2024-10-01
 categories:
     - Dev
     - MyoSuite
@@ -108,9 +108,10 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
     <font size=3>
 
-    - [:mechanical_arm: MyoSuite - MyoChallenge-2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}
+    - [:material-arm-flex: MyoSuite - MyoChallenge-2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024#h.sin8wxsvajtw){:target="_blank"}
     - [:simple-readthedocs: MyoChallenge-2024 Documentations](https://myosuite.readthedocs.io/en/latest/challenge-doc.html){:target="_blank"}
-    - [Competition Track 2024 - NeurIPS](https://neurips.cc/Conferences/2024/CompetitionTrack){:target="_blank"}
+    - [:fontawesome-solid-brain: NeurIPS - Competition Track 2024](https://neurips.cc/Conferences/2024/CompetitionTrack){:target="_blank"}
+    - [:material-presentation-play: MyoSimposium 2023](https://neurips.cc/virtual/2023/competition/66584){:target="_blank"}
     - [:simple-medium: Medium - MyoSuite Team](https://medium.com/@myosuite){:target="_blank"}
 
     </font>
@@ -217,6 +218,17 @@ Once you've developed your initial model, the next step is to enhance it to impr
 
 The development process is iterative. Continuously evaluate your model's performance, identify areas for improvement, and refine your approach. Regular evaluation is essential to understand how well your enhancements are working and whether further adjustments are needed.
 
+You may want to take a look at the strategies of previous MyoChallenge winning teams.
+
+!!! quote ""
+
+    <font size=3>
+
+    - [:material-presentation-play: MyoSymposium 2023 - MyoChallenge '23 Winners' Presentation](https://neurips.cc/virtual/2023/83948){:target="_blank"}
+    - [:simple-github: GitHub - myochallenge-lattice](https://github.com/amathislab/myochallenge-lattice){:target="_blank"}
+
+    </font>
+
 ---
 
 ## :material-upload: **Submit Your Solution**
@@ -279,21 +291,12 @@ You can join the MyoSuite community on our official Slack channel from here: [![
 
 Participate in webinars or Q&A sessions organized by the MyoChallenge team to deepen your understanding. Connecting with others and forming a team can also enhance your experience and foster collaboration.
 
-!!! success "Join Our Online Workshop!"
-
-    <font size=3>
-
-    We will have an online workshop and Q&A session on **_September 30th, 2024, at 10:00 AM EST_** to address any questions you may have about the challenge! Please register your attendance and submit your questions in advance using the Google Form below. If you're unable to attend, you can still submit your questions, which will be addressed during the workshop.
-
-    - [:simple-googleforms: MyoChallenge '24 Workshop and Q&A Registration](https://forms.gle/tLHJqsNGWpJ9sNCx6){:target="_blank"}
-
-    </font>
-
-<!-- - [:octicons-discussion-closed-16: MyoChallenge '24 Workshop & Q&A on Sep 30th, 2024 at 10:00 AM EST](https://forms.gle/tLHJqsNGWpJ9sNCx6){:target="_blank"} -->
 !!! quote ""
 
     <font size=3>
 
+    - [:material-arm-flex: MyoSeminar - List of Upcoming/Past Events](https://myoseminar.github.io){:target="_blank"}
+    - :octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording (TBA)
     - [:material-microsoft-sharepoint: MyoSuite Talk @JHU (51 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EctqFItsNrZBou_VG1AC8qMBbkEGuQ-cBLdYoNL4cVoUpg){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoChallenge '24 Talk @JHU (7 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EXOT_87KFxdJoMeQSrT8UUYB3i7theJAYb965qonV3GOVQ){:target="_blank"}
 
