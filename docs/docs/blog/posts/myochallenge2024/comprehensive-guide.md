@@ -195,7 +195,6 @@ You can visit the following official tutorials on Google Colab to learn how to:
 
     <font size=3>
 
-    - :simple-googlecolab: Step-by-step Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vRvWMWykNrd_5ViJVGdLXz2pnbc5QEs?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial1 - Policy Training with Random Actions & Visualization [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqC1Y7NkRnb2R1MgjT3n4u02EmSPem88?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial2 - Getting Started with Baselines [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJqhKWKNJ6MFUKqTQYLilc9M6BdBfA3g?usp=sharing){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2024eval/tutorials/run_the_baselines.md](https://github.com/MyoHub/myochallenge_2024eval/blob/main/tutorials/run_the_baselines.md){:target="_blank"}
@@ -261,9 +260,10 @@ The Colab below also provides detailed step-by-step instructions for the entire 
 
     <font size=3>
 
+    - :simple-googlecolab: MyoChallenge '24 Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vRvWMWykNrd_5ViJVGdLXz2pnbc5QEs?usp=sharing){:target="_blank"}
+    - :simple-googlecolab: MyoChallenge '23 Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2024eval](https://github.com/MyoHub/myochallenge_2024eval){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2023eval](https://github.com/MyoHub/myochallenge_2023eval){:target="_blank"}
-    - :simple-googlecolab: MyoChallenge Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
 
     </font>
 
