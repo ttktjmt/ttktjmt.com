@@ -184,16 +184,18 @@ This is where your skill comes into play! :fire:
 
 Before starting the development process, it is recommended to run the pre-trained baselines provided by MyoSuite to assess its performance. Additionally, this can be used as a foundation for your solution.
 
-You can visit the following official tutorials on Google Colab to learn:
+You can visit the following official tutorials on Google Colab to learn how to:
 
-- How to start a training script that can reproduce the baseline
-- How to tune the reward dictionary
-- How to access new attributes (e.g., MPL joint angles) and integrate them into your training
+- Start a training script that can reproduce the baseline
+- Tune the reward dictionary
+- Access new attributes (e.g., MPL joint angles) and integrate them into your training
+- Submit your policy model
 
 !!! quote ""
 
     <font size=3>
 
+    - :simple-googlecolab: Step-by-step Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vRvWMWykNrd_5ViJVGdLXz2pnbc5QEs?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial1 - Policy Training with Random Actions & Visualization [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqC1Y7NkRnb2R1MgjT3n4u02EmSPem88?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial2 - Getting Started with Baselines [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJqhKWKNJ6MFUKqTQYLilc9M6BdBfA3g?usp=sharing){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2024eval/tutorials/run_the_baselines.md](https://github.com/MyoHub/myochallenge_2024eval/blob/main/tutorials/run_the_baselines.md){:target="_blank"}
