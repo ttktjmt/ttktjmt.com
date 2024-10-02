@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-10-01
+    updated: 2024-10-02
 categories:
     - Dev
     - MyoSuite
@@ -298,7 +298,7 @@ Participate in webinars or Q&A sessions organized by the MyoChallenge team to de
     <font size=3>
 
     - [:material-arm-flex: MyoSeminar - List of Upcoming/Past Events](https://myoseminar.github.io){:target="_blank"}
-    - :octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording (TBA)
+    - [:octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording](https://youtu.be/bjZomRsV5Ac){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoSuite Talk @JHU (51 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EctqFItsNrZBou_VG1AC8qMBbkEGuQ-cBLdYoNL4cVoUpg){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoChallenge '24 Talk @JHU (7 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EXOT_87KFxdJoMeQSrT8UUYB3i7theJAYb965qonV3GOVQ){:target="_blank"}
 
