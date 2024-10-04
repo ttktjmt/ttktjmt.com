@@ -72,7 +72,8 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
 <div style="clear: left;"/>
 
-<!-- ---
+<!-- 
+---
 
 ### **Company Website** [:material-web:](https://mu-borg.com){:target="_blank" rel="noopener noreferrer" title="Home Page" style="float: right; margin-right: 1rem;"}
 
@@ -83,9 +84,11 @@ I developed and published a website for the company that was launched from the u
     :simple-notion: Notion ,
     :simple-cloudflare: Cloudflare
 
-<div style="clear: left;"/> -->
+<div style="clear: left;"/>
+ -->
 
-<!-- ---
+<!-- 
+---
 ### **Sleep Quality Measurement App** <a href="" :target="_blank" rel="noopener noreferrer" title="More Resources" style="float: right; margin-right: 1rem;"> :simple-googledrive: </a>
 
 explanation
@@ -94,7 +97,34 @@ explanation
 
     :material-math-integral-box: MATLAB
 
-<div style="clear: left;"/> -->
+<div style="clear: left;"/>
+ -->
+
+<!-- 
+---
+
+### **Silicone Finger** <cite his paper here>
+
+As part of other student's research, I contributed the creation of the silicone finger which can be operated with servo motors
+
+ -->
+
+<!-- 
+---
+
+### **The Overall Procedure of Myoelectric Prosthetic Hand**
+
+Before joining the lab, I experienced the whole process of myoelectric hand production.
+
+- Silicone sEMG sensor
+- Sensor Band
+- Embedded System
+    - Assembling
+    - Coding (in C)
+- Mechanical Hand
+- Tablet Application
+
+ -->
 
 ---
 
