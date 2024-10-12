@@ -26,7 +26,7 @@ As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_
     :simple-github: GitHub ,
     :material-robot: Reinforcement Learning
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
 
 ---
 
@@ -52,7 +52,7 @@ Check out the [**About tab**](about/overview.md) for detailed information.
     :simple-cloudflare: Cloudflare ,
     :simple-raspberrypi: Raspberry Pi
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
 
 ---
 
@@ -70,7 +70,7 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
     :material-shape: Box2D (Physics Engine) ,
     :simple-github: GitHub
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
 
 <!-- 
 ---
@@ -84,7 +84,7 @@ I developed and published a website for the company that was launched from the u
     :simple-notion: Notion ,
     :simple-cloudflare: Cloudflare
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
  -->
 
 <!-- 
@@ -97,34 +97,50 @@ explanation
 
     :material-math-integral-box: MATLAB
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
  -->
 
 <!-- 
 ---
 
-### **Silicone Finger** <cite his paper here>
+![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
-As part of other student's research, I contributed the creation of the silicone finger which can be operated with servo motors
+### **Silicone Finger Manufacturing** [:simple-youtube:](https://youtu.be/nTcUPr6ovEE){:target="_blank" rel="noopener noreferrer" title="Silicone Finger Video" style="float: right; margin-right: 1rem;"}
 
+I contributed to another student's research project, focusing on the development of a servo motor-operated silicone finger.
+
+???+ skills
+
+    :material-robot: Robotics ,
+    :material-chip: Electronics ,
+
+<div style="clear: left;"></div>
  -->
 
-<!-- 
 ---
 
-### **The Overall Procedure of Myoelectric Prosthetic Hand**
+![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
-Before joining the lab, I experienced the whole process of myoelectric hand production.
+### **Overall Manufacturing Process of Myoelectric Prosthetic Hand** [:simple-youtube:](https://youtu.be/nTcUPr6ovEE){:target="_blank" rel="noopener noreferrer" title="Silicone Finger Video" style="float: right; margin-right: 1rem;"}
 
-- Silicone sEMG sensor
-- Sensor Band
-- Embedded System
-    - Assembling
-    - Coding (in C)
-- Mechanical Hand
-- Tablet Application
+Prior to joining the lab, I had the opportunity to engage in the overall process of creating a myoelectric prosthetic hand. The process I experienced involved the following key components:
 
- -->
+- Manufacturing a Conductive Silicone sEMG Sensor and a Sensor Band to wrap them around the forearm
+- Building an embedded system, which included:
+    - Assembling the hardware components
+    - Writing the firmware (Signal Processing, Feature Extraction, Neural Network, Bluetooth Communication, etc) in C
+- Constructing the mechanical hand itself
+- Developing a tablet application in C++ to interface with the prosthetic hand
+- Silicone Finger Manufacturing (as part of another student's research)
+
+<div style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
+
+???+ skills
+
+    :simple-c: C (programming language) ,
+    :fontawesome-solid-gears: Mechatronics ,
+
+<div style="clear: left;"></div>
 
 ---
 
@@ -141,11 +157,11 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
     :simple-python: Python ,
     :simple-raspberrypi: Raspberry Pi
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
 
 ---
 
-![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem; height: 12rem;"}
+![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 <!-- <iframe width="330rem" height="315rem" src="https://www.youtube.com/embed/zjVYmhg9dLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: left; margin-right: 20px; margin-bottom: 20px;"></iframe> -->
 
@@ -153,13 +169,15 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 I created a classic game console using an [Arduino Nano](https://store.arduino.cc/products/arduino-nano){:target="_blank"} and a lot of LEDs. To extend the controllable pin capacity of the Arduino Nano, I used shift registers ([SN74HC595](https://www.ti.com/product/SN74HC595){:target="_blank"}). I soldered 136 LEDs by hand onto a universal board (I know, it's a menace...), allowing independent control of each LED via the Arduino Nano. Using matrix processing, I developed TETRIS in the Arduino language, carefully implementing boundary conditions and block collision avoidance to ensure that the game runs smoothly and is less prone to bugs.
 
+<div style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
+
 ???+ skills
 
     :simple-arduino: Arduino ,
     :material-soldering-iron: Soldering ,
     :material-gamepad-variant: Game Dev
 
-<div style="clear: left;"/>
+<div style="clear: left;"></div>
 
 ---
 
