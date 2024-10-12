@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-10-01
+    updated: 2024-10-12
 categories:
     - Dev
     - MyoSuite
@@ -13,7 +13,7 @@ social:
     logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg
 ---
 
-This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
+This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the challenge.
 
 <!-- more -->
 
@@ -118,12 +118,12 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
 ### **Timeline**
 
-| Time           | Stage                | Detail                                         |
-|----------------|----------------------|------------------------------------------------|
-| Jul - Aug 2024 | Open Stage           | Release of the models and tasks environment.   |
-| Sep - Oct 2024 | Scored Stage         | Opening of submission on the scoring platform. |
-| Dec 10, 2024   | Results Announcement | @NeurIPS 24                                    |
-| Dec 14, 2024   | Workshop             | @NeurIPS 24                                    |
+| Time           | Stage                | Detail                                          |
+|----------------|----------------------|-------------------------------------------------|
+| Jul - Aug 2024 | Open Stage           | Release of the models, tasks, and environments. |
+| Sep - [**:warning: Nov 17**](https://www.linkedin.com/posts/vittorio-caggiano-26b6a7b_myochallenge-activity-7250506984670593024-h76x "The MyoChallenge deadline has been extended by 2 weeks to November 17th"){:target="_blank"}, 2024 | Scored Stage         | Submissions open on the scoring platform.  |
+| Dec 10, 2024   | Results Announcement | @NeurIPS 24                                     |
+| Dec 14, 2024   | Workshop             | @NeurIPS 24                                     |
 
 ---
 
@@ -195,7 +195,6 @@ You can visit the following official tutorials on Google Colab to learn how to:
 
     <font size=3>
 
-    - :simple-googlecolab: Step-by-step Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vRvWMWykNrd_5ViJVGdLXz2pnbc5QEs?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial1 - Policy Training with Random Actions & Visualization [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqC1Y7NkRnb2R1MgjT3n4u02EmSPem88?usp=sharing){:target="_blank"}
     - :simple-googlecolab: Tutorial2 - Getting Started with Baselines [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJqhKWKNJ6MFUKqTQYLilc9M6BdBfA3g?usp=sharing){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2024eval/tutorials/run_the_baselines.md](https://github.com/MyoHub/myochallenge_2024eval/blob/main/tutorials/run_the_baselines.md){:target="_blank"}
@@ -261,9 +260,10 @@ The Colab below also provides detailed step-by-step instructions for the entire 
 
     <font size=3>
 
+    - :simple-googlecolab: MyoChallenge '24 Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vRvWMWykNrd_5ViJVGdLXz2pnbc5QEs?usp=sharing){:target="_blank"}
+    - :simple-googlecolab: MyoChallenge '23 Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2024eval](https://github.com/MyoHub/myochallenge_2024eval){:target="_blank"}
     - [:simple-github: GitHub - myochallenge_2023eval](https://github.com/MyoHub/myochallenge_2023eval){:target="_blank"}
-    - :simple-googlecolab: MyoChallenge Submission Tutorial [![Open On Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Az9B0tOJmm962v1PjjRUTEQGCY5ebqQG){:target="_blank"}
 
     </font>
 
@@ -298,7 +298,7 @@ Participate in webinars or Q&A sessions organized by the MyoChallenge team to de
     <font size=3>
 
     - [:material-arm-flex: MyoSeminar - List of Upcoming/Past Events](https://myoseminar.github.io){:target="_blank"}
-    - :octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording (TBA)
+    - [:octicons-discussion-closed-16: MyoChallenge '24 Workshop and Q&A Recording](https://youtu.be/bjZomRsV5Ac){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoSuite Talk @JHU (51 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EctqFItsNrZBou_VG1AC8qMBbkEGuQ-cBLdYoNL4cVoUpg){:target="_blank"}
     - [:material-microsoft-sharepoint: MyoChallenge '24 Talk @JHU (7 mins)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/xdeng13_jh_edu/EXOT_87KFxdJoMeQSrT8UUYB3i7theJAYb965qonV3GOVQ){:target="_blank"}
 

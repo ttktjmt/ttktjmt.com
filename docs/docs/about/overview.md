@@ -10,6 +10,7 @@ The web server for this site is running as a [deployment](https://kubernetes.io/
 ![Architecture](../graph/arch-light.png#only-light)
 ![Architecture](../graph/arch-dark.png#only-dark)
 
+<!-- add sections like "Why Kubernetes?", "Why Material for Mkdocs?", "Why Cloudflare?", and etc -->
 
 ???+ skills
 

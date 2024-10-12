@@ -29,7 +29,7 @@ The Input Hypothesis, in a nutshell, suggests that the most effective way to acq
 - The importance of sustained exposure over time
 - The limited role of output (speaking/writing), especially in early stages
 
-Krashen argues that these principles are fundamental for language acquisition. It's naive to say "Input Is All You Need", but it's worth mentioning that input plays a key role in language acquisition.
+Krashen argues that these principles are fundamental for language acquisition. It's naive to say ["Input Is All You Need"](https://arxiv.org/pdf/1706.03762){:target="_blank"}, but it's worth mentioning that input plays a key role in language acquisition.
 
 ## Personal Insights on Language Learning
 
