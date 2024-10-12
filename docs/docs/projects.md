@@ -5,6 +5,25 @@ hide:
   - navigation
 ---
 
+<!-- TODO: change how I deal with the empty areas -->
+
+<style>
+@media screen and (min-width: 60em) {
+    .md-empty-area:not([hidden]) {
+        display: block;
+    }
+}
+@media screen and (min-width: 60em) {
+    .md-empty-area {
+        height: 0px;
+    }
+}
+.md-empty-area {
+    display: none;
+    order: 2;
+}
+</style>
+
 ---
 
 ![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
@@ -133,11 +152,13 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 - Developing a tablet application in C++ to interface with the prosthetic hand
 - Silicone Finger Manufacturing (as part of another student's research)
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
+<div class="md-empty-area" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
 
 ???+ skills
 
     :simple-c: C (programming language) ,
+    :simple-cplusplus: C++ ,
+    :simple-qt: Qt ,
     :fontawesome-solid-gears: Mechatronics ,
 
 <div style="clear: left;"></div>
@@ -169,7 +190,7 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 I created a classic game console using an [Arduino Nano](https://store.arduino.cc/products/arduino-nano){:target="_blank"} and a lot of LEDs. To extend the controllable pin capacity of the Arduino Nano, I used shift registers ([SN74HC595](https://www.ti.com/product/SN74HC595){:target="_blank"}). I soldered 136 LEDs by hand onto a universal board (I know, it's a menace...), allowing independent control of each LED via the Arduino Nano. Using matrix processing, I developed TETRIS in the Arduino language, carefully implementing boundary conditions and block collision avoidance to ensure that the game runs smoothly and is less prone to bugs.
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
+<div class="md-empty-area" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
 
 ???+ skills
 
