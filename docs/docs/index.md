@@ -27,7 +27,7 @@ I'm particularly passionate about software development in the neuroscience, biom
 
 * :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
 * :speaking_head:     &nbsp; I speak Japanese, English, and some German
-* :basketball:        &nbsp; I like to play basketball and watch NBA games
+* :basketball:        &nbsp; I enjoy playing basketball and watching NBA games
 * :books:             &nbsp; My favorite book at the moment is [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
 * :octicons-mail-16:  &nbsp; You can find my contact info in the [**Contact Tab**](contact.md)
 

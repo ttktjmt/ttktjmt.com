@@ -4,7 +4,7 @@ description: Your complete roadmap for conquering MyoChallenge 2024 from start t
 draft: false
 date:
     created: 2024-08-20
-    updated: 2024-10-02
+    updated: 2024-10-12
 categories:
     - Dev
     - MyoSuite
@@ -13,7 +13,7 @@ social:
     logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg
 ---
 
-This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the Challenge.
+This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the challenge.
 
 <!-- more -->
 
@@ -118,12 +118,12 @@ For more detailed descriptions, refer to the official documentation of MyoChalle
 
 ### **Timeline**
 
-| Time           | Stage                | Detail                                         |
-|----------------|----------------------|------------------------------------------------|
-| Jul - Aug 2024 | Open Stage           | Release of the models and tasks environment.   |
-| Sep - Oct 2024 | Scored Stage         | Opening of submission on the scoring platform. |
-| Dec 10, 2024   | Results Announcement | @NeurIPS 24                                    |
-| Dec 14, 2024   | Workshop             | @NeurIPS 24                                    |
+| Time           | Stage                | Detail                                          |
+|----------------|----------------------|-------------------------------------------------|
+| Jul - Aug 2024 | Open Stage           | Release of the models, tasks, and environments. |
+| Sep - [**:warning: Nov 17**](https://www.linkedin.com/posts/vittorio-caggiano-26b6a7b_myochallenge-activity-7250506984670593024-h76x "The MyoChallenge deadline has been extended by 2 weeks to November 17th"){:target="_blank"}, 2024 | Scored Stage         | Submissions open on the scoring platform.  |
+| Dec 10, 2024   | Results Announcement | @NeurIPS 24                                     |
+| Dec 14, 2024   | Workshop             | @NeurIPS 24                                     |
 
 ---
 
