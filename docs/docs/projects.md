@@ -158,8 +158,7 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 
     :simple-c: C (programming language) ,
     :simple-cplusplus: C++ ,
-    :simple-qt: Qt ,
-    :fontawesome-solid-gears: Mechatronics ,
+    :simple-qt: Qt 
 
 <div style="clear: left;"></div>
 
