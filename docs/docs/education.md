@@ -7,13 +7,13 @@ hide:
 <br>
 
 <!-- Master -->
-<img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
+![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Master of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
-    University of Electro-Communications · Department of Mechanical and Intelligent Systems Engineering
+    University of Electro-Communications · Department of Mechanical and Intelligent Systems Engineering · 2022-2025
 </h4>
 
 ---
@@ -53,14 +53,14 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 <br><br>
 
-<!-- Bachelor -->
-<img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
+<!-- Bachelor2 -->
+![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Bachelor of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
-    University of Electro-Communications · Department of Advanced Robotics Program
+    University of Electro-Communications · Department of Advanced Robotics Program · 2020-2022
 </h4>
 
 ---
@@ -89,5 +89,29 @@ I developed and proposed a novel approach to myoelectric prosthetic hand trainin
     :material-brain:                Neural Network ,
     :material-robot:                Machine Learning ,
     :material-chart-line:           Biosignal Processing
+
+<br><br>
+
+<!-- Bachelor1 -->
+
+![Shizuoka Uni logo](https://www.shizuoka.ac.jp/english/outline/profile/symbol/images/symbol_img01.gif){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
+
+<h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
+    Bachelor of Mechanical Engineering
+</h1>
+<h4 style="margin: 0rem; color: gray;">
+    Shizuoka University · Department of Mechanical Engineering · 2018-2020
+</h4>
+
+---
+
+:mag: &nbsp; **Study** <br>
+
+I studied basic about physics, math, and mechanical engineering.
+
+
+???+ skills
+
+    :: Weldering ,
 
 <br><br>
