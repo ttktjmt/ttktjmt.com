@@ -7,13 +7,13 @@ hide:
 <br>
 
 <!-- Master -->
-<img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
+![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Master of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
-    University of Electro-Communications · Department of Mechanical and Intelligent Systems Engineering
+    University of Electro-Communications · Department of Mechanical and Intelligent Systems Engineering · 2022-2025
 </h4>
 
 ---
@@ -24,11 +24,17 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 :mag: &nbsp; **Research** <br>
 
-* **Master's Thesis** : Work in progress now :fire: <br>
-* **Papers (Published & Contributed)** : 
-> [1] T. Tsujimoto, et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," Proceedings of the 41st Annual Conference of the Robotics Society of Japan, 11-14 Sept. 2023, Sendai International Center, Sendai. [[conference info](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
-> 
-> [2] Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
+* **Concentrations**: Myoelectric Prosthesis Control, Neuroscience, Biomedical Engineering, Machine Learning, Software Development
+
+* **Master's Thesis**: Work in progress now :fire:
+
+* **Papers (Published & Contributed)**: 
+
+    1. T. Tsujimoto, et al., "A Training Method with 3D Feature Space Visualization for Pattern Recognition Controlled Myoelectric Prosthetic Hands," in Proceedings of the 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 4-7 Dec. 2024. (Accepted)
+
+    1. T. Tsujimoto, et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," in Proceedings of the 41st Annual Conference of the Robotics Society of Japan, Sendai International Center, Sendai, 11-14 Sept. 2023. [[conference info](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
+    
+    1. Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," in 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 235-236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
 
 ???+ skills
 
@@ -47,14 +53,14 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 <br><br>
 
-<!-- Bachelor -->
-<img src="../img/logo-uec.jpg" alt="Profile picture" width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"/>
+<!-- Bachelor2 -->
+![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Bachelor of Informatics and Engineering
 </h1>
 <h4 style="margin: 0rem; color: gray;">
-    University of Electro-Communications · Department of Advanced Robotics Program
+    University of Electro-Communications · Department of Advanced Robotics Program · 2020-2022
 </h4>
 
 ---
@@ -83,5 +89,29 @@ I developed and proposed a novel approach to myoelectric prosthetic hand trainin
     :material-brain:                Neural Network ,
     :material-robot:                Machine Learning ,
     :material-chart-line:           Biosignal Processing
+
+<br><br>
+
+<!-- Bachelor1 -->
+
+![Shizuoka Uni logo](https://www.shizuoka.ac.jp/english/outline/profile/symbol/images/symbol_img01.gif){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
+
+<h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
+    Bachelor of Mechanical Engineering
+</h1>
+<h4 style="margin: 0rem; color: gray;">
+    Shizuoka University · Department of Mechanical Engineering · 2018-2020
+</h4>
+
+---
+
+:mag: &nbsp; **Study** <br>
+
+I studied basic about physics, math, and mechanical engineering.
+
+
+???+ skills
+
+    :: Weldering ,
 
 <br><br>

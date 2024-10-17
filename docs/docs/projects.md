@@ -164,7 +164,6 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 
 ---
 
-
 ![Voice Controlled Robot Hand](https://img.youtube.com/vi/zjVYmhg9dLg/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
 
 ### **Voice Controlled Robot Hand** [:simple-youtube:](https://youtu.be/zjVYmhg9dLg){:target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 1rem;"}
@@ -198,6 +197,27 @@ I created a classic game console using an [Arduino Nano](https://store.arduino.c
     :material-gamepad-variant: Game Dev
 
 <div style="clear: left;"></div>
+
+
+---
+
+![Robots](img/robot_battle.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+
+### **Robot Battle Competition**
+<!-- ### **Robot Battle Competition** [:simple-youtube:](){:target="_blank" rel="noopener noreferrer" title="Robot Battle Video" style="float: right; margin-right: 1rem;"} -->
+
+As part of a class project, our team developed two robots for the Robot Battle Competition. We had to adhere to strict criteria, (e.g., weight, size, cost limitations), to develop our robots that can remain on stage for a longer period of time than competitors. As a result of our efforts, we won 2nd place in the competition and also received the Best Design Award.
+
+???+ skills
+
+    :simple-arduino: Arduino ,
+    :material-soldering-iron: Soldering ,
+    :material-chart-line: Signal Processing ,
+    :material-robot: Robotics ,
+    :material-transit-connection-variant: Electronics
+
+<div style="clear: left;"></div>
+
 
 ---
 
