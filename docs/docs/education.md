@@ -104,14 +104,19 @@ I developed and proposed a novel approach to myoelectric prosthetic hand trainin
 </h4>
 
 ---
+<!-- 
+:books: &nbsp; **Study** <br>
 
-:mag: &nbsp; **Study** <br>
-
-I studied basic about physics, math, and mechanical engineering.
-
+I studied Physics and Math from fundamental to advanced levels.
+ -->
 
 ???+ skills
 
-    :: Weldering ,
+    :simple-c:                      C ,
+    :simple-arduino:                Arduino ,
+    :simple-python:                 Python ,
+    :fontawesome-solid-explosion:   Weldering ,
+    :material-soldering-iron:       Soldering ,
+    :material-chart-line:           Signal Processing ,
 
 <br><br>
