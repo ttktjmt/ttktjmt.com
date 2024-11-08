@@ -7,7 +7,7 @@ categories:
 
 # Discovering the Best Way to Acquire a New Language
 
-Last year, I participated in a Japanese program called Vulcanus in Europe, which involved spending six months studying German at a language school in Germany, followed by a six-month full-time internship at a German company.
+Last year, I participated in a Japanese national scholarship program called [Vulcanus in Europe](https://www.eu-japan.eu/events/vulcanus-europe){:target="_blank"}, which involved spending six months studying German at a language school in Germany, followed by a six-month full-time internship at a German company.
 
 In this blog, I will share the insights I gained from learning German throughout the year and the discoveries I made about effective language acquisition.
 
