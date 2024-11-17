@@ -22,11 +22,28 @@ hide:
     display: none;
     order: 2;
 }
+.project-thumbnail {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 35em) {
+    .project-thumbnail {
+        width: 100%; /* Make images full-width */
+        height: auto; /* Maintain aspect ratio */
+    }
+}
+@media screen and (min-width: 35em) {
+    .project-thumbnail {
+        width: 15rem;
+        height: auto; /* Maintain aspect ratio */
+    }
+}
 </style>
 
 ---
 
-![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){: .project-thumbnail }
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 
@@ -49,8 +66,8 @@ As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_
 
 ---
 
-![Architecture](graph/arch-light.png#only-light){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
-![Architecture](graph/arch-dark.png#only-dark){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Architecture](graph/arch-light.png#only-light){: .project-thumbnail }
+![Architecture](graph/arch-dark.png#only-dark){: .project-thumbnail }
 
 ### **Portfolio Website (this site)** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
@@ -75,7 +92,7 @@ Check out the [**About tab**](about/overview.md) for detailed information.
 
 ---
 
-![Galton Board App](https://github.com/ttktjmt/galtonboard-qt/blob/main/res/galton-board-sim-cropped.gif?raw=true){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Galton Board App](https://github.com/ttktjmt/galtonboard-qt/blob/main/res/galton-board-sim-cropped.gif?raw=true){: .project-thumbnail }
 
 ### **Galton Board Simulator** [:simple-github:](https://github.com/ttktjmt/galtonboard-qt){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
@@ -122,7 +139,7 @@ explanation
 <!-- 
 ---
 
-![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){: .project-thumbnail }
 
 ### **Silicone Finger Manufacturing** [:simple-youtube:](https://youtu.be/nTcUPr6ovEE){:target="_blank" rel="noopener noreferrer" title="Silicone Finger Video" style="float: right; margin-right: 1rem;"}
 
@@ -138,7 +155,7 @@ I contributed to another student's research project, focusing on the development
 
 ---
 
-![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Silicone Finger](https://img.youtube.com/vi/nTcUPr6ovEE/hqdefault.jpg){: .project-thumbnail }
 
 ### **Overall Manufacturing Process of Myoelectric Prosthetic Hand** [:simple-youtube:](https://youtu.be/nTcUPr6ovEE){:target="_blank" rel="noopener noreferrer" title="Silicone Finger Video" style="float: right; margin-right: 1rem;"}
 
@@ -164,7 +181,7 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 
 ---
 
-![Voice Controlled Robot Hand](https://img.youtube.com/vi/zjVYmhg9dLg/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Voice Controlled Robot Hand](https://img.youtube.com/vi/zjVYmhg9dLg/hqdefault.jpg){: .project-thumbnail }
 
 ### **Voice Controlled Robot Hand** [:simple-youtube:](https://youtu.be/zjVYmhg9dLg){:target="_blank" rel="noopener noreferrer" title="Video" style="float: right; margin-right: 1rem;"}
 
@@ -180,7 +197,7 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 ---
 
-![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Tetris Game Console](https://img.youtube.com/vi/Kmq4INAJUeA/hqdefault.jpg){: .project-thumbnail }
 
 <!-- <iframe width="330rem" height="315rem" src="https://www.youtube.com/embed/zjVYmhg9dLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: left; margin-right: 20px; margin-bottom: 20px;"></iframe> -->
 
@@ -201,7 +218,7 @@ I created a classic game console using an [Arduino Nano](https://store.arduino.c
 
 ---
 
-![Robots](img/robot_battle.jpg){:style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"}
+![Robots](img/robot_battle.jpg){: .project-thumbnail }
 
 ### **Robot Battle Competition**
 <!-- ### **Robot Battle Competition** [:simple-youtube:](){:target="_blank" rel="noopener noreferrer" title="Robot Battle Video" style="float: right; margin-right: 1rem;"} -->
