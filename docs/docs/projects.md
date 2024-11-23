@@ -5,42 +5,6 @@ hide:
   - navigation
 ---
 
-<!-- TODO: change how I deal with the empty areas -->
-
-<style>
-@media screen and (min-width: 60em) {
-    .md-empty-area:not([hidden]) {
-        display: block;
-    }
-}
-@media screen and (min-width: 60em) {
-    .md-empty-area {
-        height: 0px;
-    }
-}
-.md-empty-area {
-    display: none;
-    order: 2;
-}
-.project-thumbnail {
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-@media screen and (max-width: 35em) {
-    .project-thumbnail {
-        width: 100%; /* Make images full-width */
-        height: auto; /* Maintain aspect ratio */
-    }
-}
-@media screen and (min-width: 35em) {
-    .project-thumbnail {
-        width: 15rem;
-        height: auto; /* Maintain aspect ratio */
-    }
-}
-</style>
-
 ---
 
 ![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){: .project-thumbnail }
@@ -239,3 +203,41 @@ As part of a class project, our team developed two robots for the Robot Battle C
 ---
 
 <br><br>
+
+<!-- TODO: change how I deal with the empty areas -->
+
+<style>
+@media screen and (min-width: 60em) {
+    .md-empty-area:not([hidden]) {
+        display: block;
+    }
+}
+@media screen and (min-width: 60em) {
+    .md-empty-area {
+        height: 0px;
+    }
+}
+.md-empty-area {
+    display: none;
+    order: 2;
+}
+.project-thumbnail {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 35em) { /*when on mobile*/
+    .project-thumbnail {
+        width: 80%;
+        height: auto;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+}
+@media screen and (min-width: 35em) { /*when on desktop*/
+    .project-thumbnail {
+        width: 15rem;
+        height: auto;
+    }
+}
+</style>
