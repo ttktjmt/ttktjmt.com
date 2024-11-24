@@ -153,8 +153,6 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 I built my own robot hand from cardboard, servo motors, string, etc., connected it to a Raspberry Pi and a USB microphone, and used voice recognition to control it with my voice.<br>
 The idea behind this project was to enable anyone to operate a high DOF prosthetic hand without training, as I felt that operating a prosthetic hand with electrical signals from muscles is intuitive but difficult to achieve high DOF.
 
-<div class="md-empty-area" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 15rem;"></div>
-
 ???+ skills
 
     :simple-python: Python ,
