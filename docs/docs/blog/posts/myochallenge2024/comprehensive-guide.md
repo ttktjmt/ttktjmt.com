@@ -27,7 +27,7 @@ Let’s get started!! :airplane:
 
 ## :mechanical_arm: **Understand MyoSuite**
 
-![MyoSuite Logo](https://github.com/myohub/myosuite/blob/main/docs/source/images/Full%20Color%20Horizontal%20wider.png?raw=true){: style="width: 80%;"}
+![MyoSuite Logo](https://github.com/myohub/myosuite/blob/main/docs/source/images/Full%20Color%20Horizontal%20wider.png?raw=true){: style="width: 80%; display: block; margin-left: auto; margin-right: auto;"}
 
 MyoSuite is the foundation of MyoChallenge. It's a platform with a collection of environments/tasks to be solved by musculoskeletal models to understand human dexterity and agility. This is an open-source software (OSS) project, with contributions and participation from researchers, developers, and enthusiasts from across the globe.
 
