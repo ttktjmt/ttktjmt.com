@@ -78,7 +78,7 @@ To get hands-on with MyoSuite, follow the tutorials provided in the official doc
 
 ## :trophy: **Understand MyoChallenge 2024**
 
-MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc){:target="_blank"}, focusing on advancing physiological dexterity and agility in bionic humans.
+MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc/Conferences/2024){:target="_blank"}, focusing on advancing physiological dexterity and agility in bionic humans.
 
 ### **Tasks**
 
