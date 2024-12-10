@@ -28,9 +28,11 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 * **Master's Thesis**: Work in progress now :fire:
 
-* **Publication List**: 
+* **Publication List**:
 
-    1. T. Tsujimoto, et al., "A Training Method with 3D Feature Space Visualization for Pattern Recognition Controlled Myoelectric Prosthetic Hands," in Proceedings of the 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 4-7 Dec. 2024. (Accepted)
+    1. (upcoming) Poster presentation at the NeurIPS 2024
+
+    1. T. Tsujimoto, et al., "A Training Method with 3D Feature Space Visualization for Pattern Recognition Controlled Myoelectric Prosthetic Hands," in Proceedings of the 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 4-7 Dec. 2024.
 
     1. T. Tsujimoto, et al., "Latent Feature Space Feedback System for Pattern Recognition Myoelectric Prosthesis Manipulation Training," presented at the 6th Annual Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR2024), Saitama University, Saitama, Japan, Oct. 26, 2024.
 
