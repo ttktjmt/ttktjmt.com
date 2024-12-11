@@ -9,8 +9,7 @@ hide:
 
 ---
 
-<!-- ![MyoChallenge 2024](https://github.com/MyoHub/myosuite/blob/main/docs/source/images/MyoChallenge24_manip.png?raw=true){: .project-thumbnail } -->
-![MyoChallenge 2024](https://github.com/ttktjmt/myochallenge-neuroflex/blob/main/videos/test_recurrent_ppo_edited.gif?raw=true "Performance of our model (successed trials)"){: .project-thumbnail }
+![MyoChallenge 2024](https://github.com/ttktjmt/myochallenge-neuroflex/blob/main/videos/test_recurrent_ppo_edited.gif?raw=true "Performance of our model"){: .project-thumbnail }
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
 

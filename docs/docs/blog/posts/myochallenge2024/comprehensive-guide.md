@@ -13,6 +13,8 @@ social:
     logo: https://raw.githubusercontent.com/MyoHub/myosuite/main/docs/source/images/logo/SVG/Full%20Color/Full%20Color%20Icon.svg
 ---
 
+# Comprehensive Guide to MyoChallenge 2024
+
 This blog post is designed to help you quickly understand and participate in [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"}. It lists all the resources you can refer to at each stage of the challenge.
 
 <!-- more -->
@@ -78,7 +80,7 @@ To get hands-on with MyoSuite, follow the tutorials provided in the official doc
 
 ## :trophy: **Understand MyoChallenge 2024**
 
-MyoChallenge 2024 is a competition held as part of the [NeurIPS 2024](https://neurips.cc/Conferences/2024){:target="_blank"}, focusing on advancing physiological dexterity and agility in bionic humans.
+MyoChallenge 2024 is a competition held as part of [NeurIPS 2024](https://neurips.cc/Conferences/2024){:target="_blank"}, focusing on advancing physiological dexterity and agility in bionic humans.
 
 ### **Tasks**
 
