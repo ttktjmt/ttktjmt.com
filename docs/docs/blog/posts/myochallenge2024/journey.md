@@ -8,7 +8,6 @@ date:
 categories:
     - Dev
     - MyoSuite
-    - Essay
 ---
 
 1. Wrote a comprehensive guide for the challenge
