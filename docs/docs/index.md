@@ -29,7 +29,7 @@ I'm particularly passionate about software development in the neuroscience, biom
 * :speaking_head:     &nbsp; I speak Japanese, English, and some German
 * :basketball:        &nbsp; I enjoy playing basketball and watching NBA games
 * :books:             &nbsp; My favorite book at the moment is [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
-* :bulb:              &nbsp; Besides the above academic fields, I'm also interested in robotics, linguistics, philosophy, and music
+* :bulb:              &nbsp; Besides the above academic fields, I'm also interested in robotics, linguistics, and philosophy
 * :thinking:          &nbsp; My favorite philosopher is [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche){:target="_blank"}
 * :octicons-mail-16:  &nbsp; You can find my contact info in the [**Contact Tab**](contact.md)
 
