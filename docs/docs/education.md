@@ -24,21 +24,27 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 :mag: &nbsp; **Research** <br>
 
-* **Concentrations**: Myoelectric Prosthesis Control, Neuroscience, Biomedical Engineering, Machine Learning, Software Development
+**Concentrations**: Myoelectric Prosthesis Control, Neuroscience, Biomedical Engineering, Machine Learning, Software Development
 
-* **Master's Thesis**: Work in progress now :fire:
+**Master's Thesis**: Work in progress now :fire:
 
-* **Publication List**:
+**Publication List**:
 
-    1. T. Tsujimoto, et al., "MyoChallenge Manipulation Track: Deep RL for Musculoskeletal and Prosthesis Co-Manipulation," poster presented at the MyoChallenge Workshop, 38th Annual Conference on Neural Information Processing Systems (NeurIPS2024), Vancouver Convention Center, Vancouver, BC, Canada, Dec. 10–15, 2024.
+1. T. Tsujimoto et al., _“MyoChallenge Manipulation Track: Deep RL for Musculoskeletal and Prosthesis Co-Manipulation,”_ poster presented at the MyoChallenge Workshop, 38th Annual Conference on Neural Information Processing Systems (**NeurIPS2024**), Vancouver Convention Center, Vancouver, BC, Canada, Dec. 10–15, 2024.
 
-    1. T. Tsujimoto et al., "A Training Method with 3D Feature Space Visualization for Pattern Recognition Controlled Myoelectric Prosthetic Hands," in 12th International Conference on Robot Intelligence Technology and Applications (RiTA2024), Ulsan, Korea, Dec. 4–7, 2024.
+1. T. Tsujimoto et al., _“A Training Method with 3D Feature Space Visualization for Pattern Recognition Controlled Myoelectric Prosthetic Hands,”_ in 12th International Conference on Robot Intelligence Technology and Applications (**RiTA2024**), Ulsan, Korea, Dec. 4–7, 2024.
 
-    1. T. Tsujimoto et al., "Latent Feature Space Feedback System for Pattern Recognition Myoelectric Prosthesis Manipulation Training," poster presented at 6th Annual Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR2024), Saitama University, Saitama, Japan, Oct. 26, 2024.
+1. T. Tsujimoto et al., _“Latent Feature Space Feedback System for Pattern Recognition Myoelectric Prosthesis Manipulation Training,”_ poster presented at 6th Annual Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (**JSRMR2024**), Saitama University, Saitama, Japan, Oct. 26, 2024.
 
-    1. T. Tsujimoto et al., "Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality," in 41st Annual Conference of the Robotics Society of Japan (RSJ2023), Sendai International Center, Sendai, Japan, Sept. 11–14, 2023. [[link](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
+1. T. Tsujimoto et al., _“Development of a Training Method for Pattern Identification Control Type Myoelectric Prosthetic Hands Using Feature Space Display Functionality,”_ in 41st Annual Conference of the Robotics Society of Japan (**RSJ2023**), Sendai International Center, Sendai, Japan, Sept. 11–14, 2023. [[link](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?kin=soc&no=183141){:target="_blank"}]
 
-    1. Y. Kuroda et al., "Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition," in 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech2022), Osaka, Japan, 2022, pp. 235–236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
+1. Y. Kuroda et al., _“Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition,”_ in 2022 IEEE 4th Global Conference on Life Sciences and Technologies (**LifeTech2022**), Osaka, Japan, 2022, pp. 235–236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
+
+**[Patents](https://researchers.uec.ac.jp/search/detail.html?systemId=694e9c95a94c9170520e17560c007669&lang=en){:target="_blank"}**:
+
+1. H. Yokoi, K. Sakai, Y. Kuroda, K. Yabuki, Y. Yamanoi, and T. Tsujimoto, "Processing Program, Processing Device, and Robotic Operation System," Patent Application No. PCT/JP2024/032987, applied on Sep. 13, 2024, National University Corporation The University of Electro-Communications.
+
+1. H. Yokoi, T. Tsujimoto, Y. Kuroda, K. Yabuki, and Y. Yamanoi, "Processing Program and Processing Device," Patent Application No. 2023-206349, applied on Dec. 6, 2023, National University Corporation The University of Electro-Communications.
 
 ???+ skills
 
