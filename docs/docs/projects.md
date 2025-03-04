@@ -9,6 +9,29 @@ hide:
 
 ---
 
+![Extended MyoSuite Demo](https://github.com/ttktjmt/myosuite_demo/blob/main/assets/bimanual.gif?raw=true){: .project-thumbnail }
+
+### **Extended MyoSuite Demo** [:material-web:](https://ttktjmt.github.io/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+
+- myosuite_demo is based on mujoco_wasm, with interactive UI
+- extended existing project with additional mujoco models
+- pseudo control options for design validation for RL control
+
+???+ skills
+
+    [:material-arm-flex: MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
+    :material-shape: MuJoCo ,
+    :simple-webassembly: WebAssembly ,
+    :simple-javascript: JavaScript ,
+    :simple-threedotjs: Three.js ,
+    :simple-cplusplus: C++ ,
+    :simple-python: Python ,
+    :simple-github: GitHub ,
+
+<div style="clear: left;"></div>
+
+---
+
 ![MyoChallenge 2024](https://github.com/ttktjmt/myochallenge-neuroflex/blob/main/videos/test_recurrent_ppo_edited.gif?raw=true "Performance of our model"){: .project-thumbnail }
 
 ### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myochallenge-neuroflex){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
