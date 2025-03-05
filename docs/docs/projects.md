@@ -9,16 +9,39 @@ hide:
 
 ---
 
+[![Extended MyoSuite Demo](https://github.com/ttktjmt/myosuite_demo/blob/main/assets/bimanual.gif?raw=true)](https://ttktjmt.github.io/myosuite_demo){:target="_blank" .project-thumbnail }
+
+### **Extended MyoSuite Demo** [:material-web:](https://ttktjmt.github.io/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+
+<!-- [myosuite_demo](https://github.com/MyoHub/myosuite_demo){:target="_blank"} is a collection of musculoskeletal models simulated on a browser built with [mujoco_wasm](https://myohub.github.io/myosuite_demo/){:target="_blank"} and [three.js](https://threejs.org){:target="_blank"}.
+I extended this project with an additional mujoco model used in the myochallenge 2024 competition. I also implemented a pseudo control options for RL control to demonstrate features I plan to contribute for myosuite web visualization. -->
+
+[myosuite_demo](https://github.com/MyoHub/myosuite_demo){:target="_blank"} is a browser-based collection of musculoskeletal models powered by [mujoco_wasm](https://myohub.github.io/myosuite_demo/){:target="_blank"} and [three.js](https://threejs.org){:target="_blank"}. In this extended demo, I integrated an additional MuJoCo model that was featured in the MyoChallenge 2024 competition. I also implemented pseudo control options for reinforcement learning control, showcasing new visualization features planned for future contributions to the MyoSuite.
+
+???+ skills
+
+    [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
+    :material-shape: MuJoCo ,
+    :simple-threedotjs: Three.js ,
+    :simple-webassembly: WebAssembly ,
+    :simple-javascript: JavaScript ,
+    :simple-python: Python ,
+    :simple-github: GitHub ,
+
+<div style="clear: left;"></div>
+
+---
+
 ![MyoChallenge 2024](https://github.com/ttktjmt/myochallenge-neuroflex/blob/main/videos/test_recurrent_ppo_edited.gif?raw=true "Performance of our model"){: .project-thumbnail }
 
-### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"}
+### **MyoChallenge 2024** [:material-web:](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank" rel="noopener noreferrer" title="Official Website" style="float: right; margin-right: 1rem;"} [:material-file-document:](blog/posts/myochallenge2024/comprehensive-guide.md){:rel="noopener noreferrer" title="My Blog" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myochallenge-neuroflex){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 As a member of the [MyoSuite](https://sites.google.com/view/myosuite){:target="_blank"} community and the [MyoChallenge Advocacy Team](https://sites.google.com/view/myochallenge-2024-advocacy/advocacy-team){:target="_blank"}, I created a [blog](blog/posts/myochallenge2024/comprehensive-guide.md) explaining the general process of participating in the [MyoChallenge 2024](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024){:target="_blank"} competition. The blog was cited on the [official website](https://sites.google.com/view/myochallenge-2024-advocacy){:target="_blank"} and featured by the official account on SNS ([Linkedin](https://www.linkedin.com/posts/vittorio-caggiano-26b6a7b_myochallenge-neurips-myosuite-activity-7238908256369205248-IiFi){:target="_blank"}, [X](https://twitter.com/MyoSuite/status/1833159649840783719){:target="_blank"})<br>
 Formed a team *neuroflex* with international enthusiasts and won **3rd place** in the Bimanual Task and the [DEI Team Award](https://github.com/ttktjmt/myochallenge-neuroflex?tab=readme-ov-file#myochallenge-2024---team-neuroflex "Award for the team with diverse and inclusive backgrounds"){:target="_blank"}.
 
 ???+ skills
 
-    [:material-arm-flex: MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
+    [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
     :simple-openaigym: Gym ,
     :material-shape: MuJoCo ,
     :simple-pytorch: PyTorch ,
