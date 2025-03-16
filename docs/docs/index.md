@@ -12,8 +12,8 @@ hide:
 # Hi 👋&nbsp; I am Tatsuki Tsujimoto {:style="margin: 4.5% 0.5% 3% 0.5%; font-weight: bold;"}
 
 <font size=4>
-As a researcher and software developer, my aim is to apply scientific knowledge and technological innovation to develop impactful solutions that improve people’s lives.<br>
-My key areas of interest include software development in neuroscience, biomedical engineering, healthcare, wearable technology, and artificial intelligence.
+As a researcher and software developer, my driving purpose is to apply scientific knowledge and technological advancement to create meaningful solutions for people with difficulties.<br>
+My key areas of interest include biomedical engineering, neuroscience, healthcare, wearable technology, and artificial intelligence.
 </font>
 
 <br style="clear: both;">
