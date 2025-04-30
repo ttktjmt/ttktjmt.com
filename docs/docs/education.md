@@ -40,7 +40,7 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 1. Y. Kuroda et al., _“Development and Clinical Evaluation of a Five-Fingered Myoelectric Prosthetic Hand with Pattern Recognition,”_ in 2022 IEEE 4th Global Conference on Life Sciences and Technologies (**LifeTech2022**), Osaka, Japan, 2022, pp. 235–236, doi: 10.1109/LifeTech53646.2022.9754889. [[link](https://ieeexplore.ieee.org/document/9754889){:target="_blank"}]
 
-**Patents:
+**Patents**:
 
 1. H. Yokoi, K. Sakai, Y. Kuroda, K. Yabuki, Y. Yamanoi, and T. Tsujimoto, "Processing Program, Processing Device, and Robotic Operation System," Patent Application No. PCT/JP2024/032987, applied on Sep. 13, 2024, National University Corporation The University of Electro-Communications.
 
