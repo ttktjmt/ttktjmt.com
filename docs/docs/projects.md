@@ -9,9 +9,9 @@ hide:
 
 ---
 
-[![Extended MyoSuite Demo](https://github.com/ttktjmt/myosuite_demo/blob/main/assets/bimanual.gif?raw=true)](https://ttktjmt.github.io/myosuite_demo){:target="_blank" .project-thumbnail }
+[![Extended MyoSuite Demo](https://github.com/ttktjmt/myoweb/blob/main/assets/bimanual.gif?raw=true)](https://ttktjmt.github.io/myoweb){:target="_blank" .project-thumbnail }
 
-### **Extended MyoSuite Demo** [:material-web:](https://ttktjmt.github.io/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myosuite_demo){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+### **Extended MyoSuite Demo** [:material-web:](https://ttktjmt.github.io/myoweb){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/myoweb){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 [myosuite_demo](https://github.com/MyoHub/myosuite_demo){:target="_blank"} is a browser-based collection of musculoskeletal models powered by [mujoco_wasm](https://github.com/zalo/mujoco_wasm){:target="_blank"} and [Three.js](https://threejs.org){:target="_blank"}. As an extension to this demo, I integrated an additional MuJoCo model that was featured in the MyoChallenge 2024 competition. I also implemented pseudo control options for reinforcement learning control, showcasing new visualization features planned for future contributions to the MyoSuite.
 
