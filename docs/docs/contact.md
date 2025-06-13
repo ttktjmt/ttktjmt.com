@@ -27,19 +27,19 @@ You are welcome to connect with me on [**Linkedin**](https://www.linkedin.com/in
       float: left;
     }
     .email-code-block {
-      width: 24rem;
+      width: 26rem;
     }
   }
   @media screen and (max-width: 59.99rem) {
     .email-code-block {
-      width: 13rem;
+      width: 15rem;
     }
   }
 </style>
 
 <div class="email-code-block">
   ```{ .yaml .copy }
-  contact [at] ttktjmt.com
+  contact [at] ttktjmt {dot} com
   ```
 </div>
 <script>
