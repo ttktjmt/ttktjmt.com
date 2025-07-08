@@ -3,7 +3,7 @@
 
 !!! info
 
-    The following architecture has been temporarily deprecated due to security concerns.
+    The following architecture has been temporarily suspended due to security concerns.
 
 
 This website is developed for showcasing my information, managing my projects, hosting and sharing my blog posts, and etc.<br>
