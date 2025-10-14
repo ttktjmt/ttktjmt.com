@@ -101,7 +101,7 @@ nav:
   - CI/CD: about/cicd.md
 - Projects: projects.md
 - Experience: experience.md
-- Education: education.md
+- Education: education/index.md
 - Blog:
   - blog/index.md
 - Contact: contact.md

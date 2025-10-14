@@ -7,7 +7,7 @@ hide:
 <br>
 
 <!-- Master -->
-![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
+![UEC logo](../img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Master of Informatics and Engineering
@@ -24,11 +24,15 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 
 :mag: &nbsp; **Research** <br>
 
-**Concentrations**: Myoelectric Prosthesis Control, Neuroscience, Biomedical Engineering, Machine Learning, Software Development
+**Concentrations**:
 
-**Master's Thesis**: Work in progress now :fire:
+&nbsp;&nbsp;&nbsp;&nbsp; Myoelectric Prosthesis Control, Neuroscience, Biomedical Engineering, Machine Learning, Software Development
 
-**Publication List**:
+**Thesis**:
+
+&nbsp;&nbsp;&nbsp;&nbsp; Latent Muscle Manifold Feedback for Pattern Recognition Control of Myoelectric Prosthetic Hands
+
+**Publications**:
 
 1. T. Tsujimoto et al., _“MyoChallenge Manipulation Track: Deep RL for Musculoskeletal and Prosthesis Co-Manipulation,”_ poster presented at the MyoChallenge Workshop, 38th Annual Conference on Neural Information Processing Systems (**NeurIPS2024**), Vancouver Convention Center, Vancouver, BC, Canada, Dec. 10–15, 2024.
 
@@ -64,7 +68,7 @@ Our lab successfully commercialized a cyborg prosthetic hand with five independe
 <br><br>
 
 <!-- Bachelor2 -->
-![UEC logo](img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
+![UEC logo](../img/logo-uec.jpg){:width="70rem" style="float: left; margin: 0rem 1rem; border-radius: 20%; overflow: hidden;"}
 
 <h1 style="margin: 0.8rem 0rem 0rem 5rem; font-weight: bold;">
     Bachelor of Informatics and Engineering

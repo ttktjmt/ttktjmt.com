@@ -12,7 +12,7 @@ hide:
 <h1 style="margin: 0.9rem 0rem 0rem 5rem; font-weight: bold;">
     Software Developer
 </h1>
-<h4 style="margin: 0rem; color: gray;">Computomics · Internship · 7 mos</h4>
+<h4 style="margin: 0rem; color: gray;">Computomics · Internship / Full-time · 7 mos / now</h4>
 
 ---
 <font size=4rem>

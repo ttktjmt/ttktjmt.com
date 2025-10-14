@@ -13,7 +13,7 @@ hide:
 
 <iframe 
     src="https://ttktjmt.github.io/muwanx?source=ttktjmt.com"
-    style="border:none; border-radius:8px; overflow:hidden; height:400px;">
+    style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
 </div>
@@ -39,7 +39,7 @@ Perfect for sharing interactive demos as static sites (such as GitHub Pages), ra
     [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://ttktjmt.github.io/muwanx/#/myosuite){:target="_blank"} ,
     :simple-python: Python ,
     :simple-html5: HTML ,
-    :simple-css3: CSS ,
+    :simple-css: CSS ,
     :simple-javascript: JavaScript ,
     :simple-github: GitHub ,
     :material-brain: Reinforcement Learning
@@ -86,14 +86,14 @@ Formed a team *neuroflex* with international enthusiasts and won **3rd place** i
 
 <div class="thumbnail" markdown>
 
-![Architecture](graph/arch-light.png#only-light)
-![Architecture](graph/arch-dark.png#only-dark)
+[![Architecture](graph/arch-light.png#only-light)](about/overview.md){:title="See details in About tab"}
+[![Architecture](graph/arch-dark.png#only-dark)](about/overview.md){:title="See details in About tab"}
 
 </div>
 
 <div class="description" markdown>
 
-### **Portfolio Website (this site)** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+### **Portfolio Website** [:simple-github:](https://github.com/ttktjmt/ttktjmt.com){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 Check out the [**About tab**](about/overview.md) for detailed information.
 
@@ -276,6 +276,9 @@ As part of a class project, our team developed two robots for the Robot Battle C
 }
 .description {
     flex: 1;
+}
+.description h3 {
+    margin-top: 0;
 }
 @media screen and (max-width: 60em) {
     .project {
