@@ -67,6 +67,9 @@ extra:
       link: https://www.linkedin.com/in/tatsukitsujimoto
     - icon: fontawesome/solid/code
       link: https://leetcode.com/ta747375ki
+  analytics:
+    provider: google
+    tracking_id: G-QTNR1TQP4V
 
 # Additional CSS
 extra_css:
