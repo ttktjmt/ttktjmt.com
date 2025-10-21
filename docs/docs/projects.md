@@ -27,22 +27,22 @@ Perfect for sharing interactive demos as static sites (such as GitHub Pages), ra
 
 ???+ skills
 
-    :material-shape: MuJoCo ,
-    :simple-webassembly: WebAssembly ,
-    :simple-onnx: ONNX Runtime ,
-    :simple-vuedotjs: Vue.js ,
-    :simple-vuetify: Vuetify ,
-    :simple-vite: Vite ,
-    :simple-nodedotjs: Node.js ,
-    :simple-npm: NPM ,
-    :simple-threedotjs: Three.js ,
+    :material-shape:        MuJoCo ,
+    :simple-onnx:           ONNX Runtime ,
+    :simple-vuedotjs:       Vue.js ,
+    :simple-vuetify:        Vuetify ,
+    :simple-vite:           Vite ,
+    :simple-nodedotjs:      Node.js ,
+    :simple-npm:            NPM ,
+    :simple-threedotjs:     Three.js ,
     [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://ttktjmt.github.io/muwanx/#/myosuite){:target="_blank"} ,
-    :simple-python: Python ,
-    :simple-html5: HTML ,
-    :simple-css: CSS ,
-    :simple-javascript: JavaScript ,
-    :simple-github: GitHub ,
-    :material-brain: Reinforcement Learning
+    :simple-python:         Python ,
+    :simple-html5:          HTML ,
+    :simple-css:            CSS ,
+    :simple-javascript:     JavaScript ,
+    :simple-webassembly:    WebAssembly ,
+    :simple-github:         GitHub ,
+    :material-brain:        Reinforcement Learning
 
 </div>
 
@@ -68,13 +68,13 @@ Formed a team *neuroflex* with international enthusiasts and won **3rd place** i
 ???+ skills
 
     [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://github.com/MyoHub/myosuite){:target="_blank"} ,
-    :simple-openaigym: Gym ,
-    :material-shape: MuJoCo ,
-    :simple-pytorch: PyTorch ,
-    :simple-docker: Docker ,
-    :simple-python: Python ,
-    :simple-github: GitHub ,
-    :material-robot: Reinforcement Learning
+    :simple-openaigym:      Gym ,
+    :material-shape:        MuJoCo ,
+    :simple-pytorch:        PyTorch ,
+    :simple-docker:         Docker ,
+    :simple-python:         Python ,
+    :simple-github:         GitHub ,
+    :material-robot:        Reinforcement Learning
 
 </div>
 
@@ -99,18 +99,18 @@ Check out the [**About tab**](about/overview.md) for detailed information.
 
 ???+ skills
 
-    :simple-materialformkdocs: Material for Mkdocs ,
-    :simple-kubernetes: Kubernetes ,
-    :simple-k3s: k3s ,
-    :simple-docker: Docker ,
-    :simple-python: Python ,
-    :simple-html5: HTML ,
-    :simple-css3: CSS ,
-    :simple-javascript: JavaScript ,
-    :simple-github: GitHub ,
-    :simple-githubactions: GitHub Actions ,
-    :simple-cloudflare: Cloudflare ,
-    :simple-raspberrypi: Raspberry Pi
+    :simple-materialformkdocs:  Material for Mkdocs ,
+    :simple-kubernetes:         Kubernetes ,
+    :simple-k3s:                k3s ,
+    :simple-docker:             Docker ,
+    :simple-python:             Python ,
+    :simple-html5:              HTML ,
+    :simple-css3:               CSS ,
+    :simple-javascript:         JavaScript ,
+    :simple-github:             GitHub ,
+    :simple-githubactions:      GitHub Actions ,
+    :simple-cloudflare:         Cloudflare ,
+    :simple-raspberrypi:        Raspberry Pi
 
 </div>
 
@@ -135,10 +135,10 @@ I developed a 2D simulator as an Android app using [box2d](https://github.com/er
 
 ???+ skills
 
-    :simple-cplusplus: C++ ,
-    :simple-qt: Qt ,
-    :material-shape: Box2D (Physics Engine) ,
-    :simple-github: GitHub
+    :simple-cplusplus:      C++ ,
+    :simple-qt:             Qt ,
+    :material-shape:        Box2D (Physics Engine) ,
+    :simple-github:         GitHub
 
 </div>
 
@@ -170,9 +170,9 @@ Prior to joining the lab, I had the opportunity to engage in the overall process
 
 ???+ skills
 
-    :simple-c: C (programming language) ,
-    :simple-cplusplus: C++ ,
-    :simple-qt: Qt 
+    :simple-c:              C (programming language) ,
+    :simple-cplusplus:      C++ ,
+    :simple-qt:             Qt 
 
 </div>
 
@@ -197,8 +197,8 @@ The idea behind this project was to enable anyone to operate a high DOF prosthet
 
 ???+ skills
 
-    :simple-python: Python ,
-    :simple-raspberrypi: Raspberry Pi
+    :simple-python:         Python ,
+    :simple-raspberrypi:    Raspberry Pi
 
 </div>
 
@@ -222,9 +222,9 @@ I created a classic game console using an [Arduino Nano](https://store.arduino.c
 
 ???+ skills
 
-    :simple-arduino: Arduino ,
-    :material-soldering-iron: Soldering ,
-    :material-gamepad-variant: Game Dev
+    :simple-arduino:            Arduino ,
+    :material-soldering-iron:   Soldering ,
+    :material-gamepad-variant:  Game Dev
 
 </div>
 
@@ -246,11 +246,11 @@ As part of a class project, our team developed two robots for the Robot Battle C
 
 ???+ skills
 
-    :simple-arduino: Arduino ,
-    :material-soldering-iron: Soldering ,
-    :material-chart-line: Signal Processing ,
-    :material-robot: Robotics ,
-    :material-transit-connection-variant: Electronics
+    :simple-arduino:                        Arduino ,
+    :material-soldering-iron:               Soldering ,
+    :material-chart-line:                   Signal Processing ,
+    :material-robot:                        Robotics ,
+    :material-transit-connection-variant:   Electronics
 
 </div>
 

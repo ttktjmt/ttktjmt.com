@@ -25,7 +25,7 @@ Contributed to the development of a tool that visualizes genomic data from agric
     :simple-python:                Python ,
     :simple-fastapi:               FastAPI ,
     :simple-kubernetes:            Kubernetes ,
-    :simple-amazonaws:             AWS (IAM, EKS, S3, RDS) ,
+    :fontawesome-brands-aws:       AWS (IAM, EKS, S3, RDS) ,
     :simple-postgresql:            PostgreSQL ,
     :simple-gitlab:                GitLab ,
     :simple-rancher:               Rancher ,
