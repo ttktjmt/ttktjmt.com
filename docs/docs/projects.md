@@ -11,6 +11,35 @@ hide:
 
 <div class="thumbnail" markdown>
 
+</div>
+
+<div class="description" markdown>
+
+### **mjlab_myosuite** [:simple-github:](https://github.com/MyoHub/mjlab_myosuite){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+
+Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} environment.
+
+???+ skills
+
+    :material-flask:          Mjlab ,
+    :material-axis:           Viser ,
+    ![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite ,
+    :simple-weightsandbiases: Weights & Biases ,
+    :material-shape:          MuJoCo ,
+    :simple-python:           Python ,
+    :simple-github:           GitHub ,
+    :material-brain:          Reinforcement Learning
+
+</div>
+
+</div>
+
+---
+
+<div class="project" markdown>
+
+<div class="thumbnail" markdown>
+
 <iframe 
     src="https://ttktjmt.github.io/muwanx/#/?hidectrl=1&source=ttktjmt.com"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
@@ -22,8 +51,8 @@ hide:
 
 ### **Muwanx** [:material-web:](https://ttktjmt.github.io/muwanx){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/muwanx){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
-[Muwanx](https://github.com/ttktjmt/muwanx){:target="_blank"} is a browser-based mujoco playground powered by [mujoco_wasm](https://github.com/zalo/mujoco_wasm){:target="_blank"} and [ONNX Runtime](https://github.com/microsoft/onnxruntime). It enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.
-Perfect for sharing interactive demos as static sites (such as GitHub Pages), rapidly prototyping RL policies, or building customizable environments for experimentation and visualization.
+[Muwanx](https://github.com/ttktjmt/muwanx){:target="_blank"} is a browser-based mujoco playground built on top of [**MU**joco **WA**sm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [on**NX** runtime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
+Working closely with the mujoco team at DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
 
 ???+ skills
 
