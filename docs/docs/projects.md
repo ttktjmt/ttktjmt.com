@@ -52,7 +52,7 @@ Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://
 ### **Muwanx** [:material-web:](https://ttktjmt.github.io/muwanx){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/muwanx){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 [Muwanx](https://github.com/ttktjmt/muwanx){:target="_blank"} is a browser-based mujoco playground built on top of [**MU**joco **WA**sm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [on**NX** runtime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
-Working closely with the mujoco team at DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
+Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
 
 ???+ skills
 
