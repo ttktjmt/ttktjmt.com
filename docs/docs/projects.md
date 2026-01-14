@@ -7,10 +7,10 @@ hide:
 
 <!-- The stylesheet is set at the bottom of this file -->
 
-<div class="project" markdown>
+<!-- <div class="project" markdown>
 
 <div class="thumbnail" markdown>
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="da" dir="ltr">Reimplementing MyoChallenge from <a href="https://twitter.com/MyoSuite?ref_src=twsrc%5Etfw">@MyoSuite</a> as an mjlab task 💪<a href="https://t.co/6zjjZXfQVb">https://t.co/6zjjZXfQVb</a> <a href="https://t.co/WhjzIlM1hc">pic.twitter.com/WhjzIlM1hc</a></p>&mdash; Tatsuki Tsujimoto (@ta747375ki) <a href="https://twitter.com/ta747375ki/status/2011116850730745993?ref_src=twsrc%5Etfw">January 13, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="description" markdown>
@@ -34,7 +34,7 @@ Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://
 
 </div>
 
----
+--- -->
 
 <div class="project" markdown>
 
