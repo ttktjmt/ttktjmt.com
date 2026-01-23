@@ -5,36 +5,11 @@ hide:
   - navigation
 ---
 
+# Personal Projects
+
+
 <!-- The stylesheet is set at the bottom of this file -->
 
-<!-- <div class="project" markdown>
-
-<div class="thumbnail" markdown>
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="da" dir="ltr">Reimplementing MyoChallenge from <a href="https://twitter.com/MyoSuite?ref_src=twsrc%5Etfw">@MyoSuite</a> as an mjlab task 💪<a href="https://t.co/6zjjZXfQVb">https://t.co/6zjjZXfQVb</a> <a href="https://t.co/WhjzIlM1hc">pic.twitter.com/WhjzIlM1hc</a></p>&mdash; Tatsuki Tsujimoto (@ta747375ki) <a href="https://twitter.com/ta747375ki/status/2011116850730745993?ref_src=twsrc%5Etfw">January 13, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<div class="description" markdown>
-
-### **mjlab_myosuite** [:simple-github:](https://github.com/MyoHub/mjlab_myosuite){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
-
-Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} environment.
-
-???+ skills
-
-    :material-flask:          Mjlab ,
-    :material-axis:           Viser ,
-    ![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite ,
-    :simple-weightsandbiases: Weights & Biases ,
-    :material-shape:          MuJoCo ,
-    :simple-python:           Python ,
-    :simple-github:           GitHub ,
-    :material-brain:          Reinforcement Learning
-
-</div>
-
-</div>
-
---- -->
 
 <div class="project" markdown>
 
@@ -72,6 +47,40 @@ Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.
     :simple-webassembly:    WebAssembly ,
     :simple-github:         GitHub ,
     :material-brain:        Reinforcement Learning
+
+</div>
+
+</div>
+
+---
+
+<div class="project" markdown>
+
+<div class="thumbnail" markdown>
+
+<iframe 
+    src="https://ttktjmt.github.io/mjlab_myosuite/"
+    style="border:none; border-radius:8px; overflow:hidden; height:370px;">
+</iframe>
+
+</div>
+
+<div class="description" markdown>
+
+### **mjlab_myosuite** [:simple-github:](https://github.com/MyoHub/mjlab_myosuite){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+
+Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} environment.
+
+???+ skills
+
+    :material-flask:          Mjlab ,
+    :material-axis:           Viser ,
+    ![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite ,
+    :simple-weightsandbiases: Weights & Biases ,
+    :material-shape:          MuJoCo ,
+    :simple-python:           Python ,
+    :simple-github:           GitHub ,
+    :material-brain:          Reinforcement Learning
 
 </div>
 
