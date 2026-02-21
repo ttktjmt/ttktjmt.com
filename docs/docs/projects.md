@@ -16,7 +16,7 @@ hide:
 <div class="thumbnail" markdown>
 
 <iframe 
-    src="https://ttktjmt.github.io/muwanx/#/?hidectrl=1&source=ttktjmt.com"
+    src="https://ttktjmt.github.io/mjswan"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
