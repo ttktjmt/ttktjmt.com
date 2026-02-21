@@ -24,9 +24,9 @@ hide:
 
 <div class="description" markdown>
 
-### **Muwanx** [:material-web:](https://ttktjmt.github.io/muwanx){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/muwanx){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+### **mjswan** [:material-web:](https://ttktjmt.github.io/mjswan){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/mjswan){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
-[Muwanx](https://github.com/ttktjmt/muwanx){:target="_blank"} is a browser-based mujoco playground built on top of [**MU**joco **WA**sm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [on**NX** runtime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
+[mjswan](https://github.com/ttktjmt/mjswan){:target="_blank"} is a browser-based mujoco playground built on top of [mujoco wasm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [onnxruntime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
 Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
 
 ???+ skills
@@ -39,7 +39,7 @@ Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.
     :simple-nodedotjs:      Node.js ,
     :simple-npm:            NPM ,
     :simple-threedotjs:     Three.js ,
-    [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://ttktjmt.github.io/muwanx/#/myosuite){:target="_blank"} ,
+    [![myosuite logo](https://raw.githubusercontent.com/MyoHub/myosuite/7927eb0153b428812c1db143e0e41144ab57254b/docs/source/images/logo/SVG/Full%20Color/Favicon%2032.svg){:style="width: 1em;"} MyoSuite](https://ttktjmt.github.io/mjswan/myosuite){:target="_blank"} ,
     :simple-python:         Python ,
     :simple-html5:          HTML ,
     :simple-css:            CSS ,
