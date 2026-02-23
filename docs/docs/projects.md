@@ -24,7 +24,7 @@ hide:
 
 <div class="description" markdown>
 
-### **mjswan** [:material-web:](https://ttktjmt.github.io/mjswan){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/mjswan){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+### **mjswan** [:simple-youtube:](https://youtu.be/0B4Ky0hf2Gg){:target="_blank" rel="noopener noreferrer" title="MyoConference Presentation" style="float: right; margin-right: 1rem;"} [:material-web:](https://ttktjmt.github.io/mjswan){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/mjswan){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 [mjswan](https://github.com/ttktjmt/mjswan){:target="_blank"} is a browser-based mujoco playground built on top of [mujoco wasm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [onnxruntime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
 Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
