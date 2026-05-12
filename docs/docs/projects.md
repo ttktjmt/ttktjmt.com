@@ -16,7 +16,7 @@ hide:
 <div class="thumbnail" markdown>
 
 <iframe 
-    src="https://ttktjmt.github.io/mjswan"
+    src="https://mjswan-spinkick.pages.dev/?panel=0"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
@@ -24,18 +24,19 @@ hide:
 
 <div class="description" markdown>
 
-### **mjswan** [:simple-youtube:](https://youtu.be/0B4Ky0hf2Gg){:target="_blank" rel="noopener noreferrer" title="MyoConference Presentation" style="float: right; margin-right: 1rem;"} [:material-web:](https://ttktjmt.github.io/mjswan){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/mjswan){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
+### **mjswan** [![GitHub Stars](https://img.shields.io/github/stars/ttktjmt/mjswan?style=social){:style="vertical-align: middle;"}](https://github.com/ttktjmt/mjswan/stargazers){:target="_blank" rel="noopener noreferrer" title="GitHub Stars" style="margin-left: 0.5rem;"} [:simple-youtube:](https://youtu.be/0B4Ky0hf2Gg){:target="_blank" rel="noopener noreferrer" title="MyoConference Presentation" style="float: right; margin-right: 1rem;"} [:material-web:](https://ttktjmt.github.io/mjswan){:target="_blank" rel="noopener noreferrer" title="GitHub Pages" style="float: right; margin-right: 1rem;"} [:simple-github:](https://github.com/ttktjmt/mjswan){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
 [mjswan](https://github.com/ttktjmt/mjswan){:target="_blank"} is a browser-based mujoco playground built on top of [mujoco wasm](https://github.com/google-deepmind/mujoco/tree/main/wasm){:target="_blank"}, [onnxruntime](https://github.com/microsoft/onnxruntime){:target="_blank"}, and [three.js](https://github.com/mrdoob/three.js/){:target="_blank"}. This enables MuJoCo simulations with real-time trained policy control, running entirely in the browser - no server for simulation required.  
-Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, a gaming company, etc.
+Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} and [viser](https://github.com/nerfstudio-project/viser){:target="_blank"} developers at UC Berkeley, robotics researchers at Tsinghua University, startup companies, etc.
 
 ???+ skills
 
     :material-shape:        MuJoCo ,
+    :material-flask:        Mjlab ,
+    :simple-weightsandbiases: Weights & Biases ,
     :simple-onnx:           ONNX Runtime ,
     :simple-vuedotjs:       Vue.js ,
-    :simple-vuetify:        Vuetify ,
-    :simple-vite:           Vite ,
+    :simple-react:          React ,
     :simple-nodedotjs:      Node.js ,
     :simple-npm:            NPM ,
     :simple-threedotjs:     Three.js ,
@@ -59,7 +60,7 @@ Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.
 <div class="thumbnail" markdown>
 
 <iframe 
-    src="https://ttktjmt.github.io/mjlab_myosuite/"
+    src="https://ttktjmt.github.io/mjlab_myosuite/viser-client/?playbackPath=../recordings/output.viser"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
@@ -69,7 +70,7 @@ Working closely with the mujoco team at Google DeepMind, [mjlab](https://github.
 
 ### **mjlab_myosuite** [:simple-github:](https://github.com/MyoHub/mjlab_myosuite){:target="_blank" rel="noopener noreferrer" title="Source Code" style="float: right; margin-right: 1rem;"}
 
-Reimplemented the MyoChallenge 2022 "Die Reorientation" Task in [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} environment.
+Reimplemented the MyoChallenge 2022 "Die Reorientation" Task and the MyoChallenge 2024 "Bimanual Manipulation" Task in [mjlab](https://github.com/mujocolab/mjlab){:target="_blank"} framework.
 
 ???+ skills
 
