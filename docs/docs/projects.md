@@ -16,7 +16,7 @@ hide:
 <div class="thumbnail" markdown>
 
 <iframe 
-    src="https://mjswan-g1dance.pages.dev/?panel=0"
+    src="https://mjswan.com/embed/cI6nRH3"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
