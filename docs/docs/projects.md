@@ -16,7 +16,7 @@ hide:
 <div class="thumbnail" markdown>
 
 <iframe 
-    src="https://mjswan.com/embed/cI6nRH3"
+    src="https://mjswan.com/embed/cI6nRH3?autoplay=1"
     style="border:none; border-radius:8px; overflow:hidden; height:370px;">
 </iframe>
 
