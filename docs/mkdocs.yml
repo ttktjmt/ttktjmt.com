@@ -13,6 +13,7 @@ copyright: '&copy;2026 Tatsuki Tsujimoto'
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   logo: img/terminal-solid.svg
   favicon: img/terminal-solid.svg
   language: en
@@ -105,8 +106,9 @@ nav:
   - Versioning: about/versioning.md
   - CI/CD: about/cicd.md
 - Projects: projects.md
-- Experience: experience.md
-- Education: education/index.md
+# temporarily hidden from nav (content kept)
+# - Experience: experience.md
+# - Education: education/index.md
 - Blog:
   - blog/index.md
 - Contact: contact.md

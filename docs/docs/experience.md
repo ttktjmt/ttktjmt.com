@@ -1,6 +1,9 @@
 ---
 hide:
   - navigation
+search:
+  exclude: true
+noindex: true
 ---
 
 # Experience
