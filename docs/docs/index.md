@@ -25,7 +25,7 @@ My key areas of interest include biomedical engineering, neuroscience, healthcar
 
 ## More About Me
 
-* :earth_asia:        &nbsp; I currently live in Kanagawa, Japan
+* :earth_asia:        &nbsp; I currently live in Aichi, Japan
 * :speaking_head:     &nbsp; I speak Japanese, English, and some German
 * :basketball:        &nbsp; I enjoy playing basketball and watching NBA games
 * :books:             &nbsp; My favorite book at the moment is [_"The Three-Body Problem"_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)){:target="_blank"}
